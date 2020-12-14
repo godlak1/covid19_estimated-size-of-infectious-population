@@ -87,6 +87,9 @@ After under-reporting-adjustment, the obtained infection-fatality-rates no longe
 - The number of confirmed cases/deaths for countries and Texas counties are from COVID-19 data repository of Johns Hopkins CSSE (https://github.com/CSSEGISandData/COVID-19). Updated around 11pm CT.
 - Data at the state level are from the covidtracking project (https://covidtracking.com/). Updated around 4pm CT.
 
+## Notes
+
+- 12/14/2020: Due to the size limit, the repository was re-created with the data since 12/01/2020. The old estimates until 11/29/2020 were archived in the csv format and can be found at https://github.com/JungsikNoh/Archive_COVID19_Estimated-Size-of-Infectious-Population.
 
 ## Contact
 
