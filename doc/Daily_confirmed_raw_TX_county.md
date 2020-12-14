@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -14,13 +14,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Harris_newCases.png)  |  ![img](/output/TX_counties_current/Dallas_newCases.png)  |  
 
-|  3. Tarrant  |  4. El Paso  |  
+|  3. Tarrant  |  4. Bexar  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Tarrant_newCases.png)  |  ![img](/output/TX_counties_current/El Paso_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Tarrant_newCases.png)  |  ![img](/output/TX_counties_current/Bexar_newCases.png)  |  
 
-|  5. Bexar  |  6. Hidalgo  |  
+|  5. El Paso  |  6. Hidalgo  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Bexar_newCases.png)  |  ![img](/output/TX_counties_current/Hidalgo_newCases.png)  |  
+|  ![img](/output/TX_counties_current/El Paso_newCases.png)  |  ![img](/output/TX_counties_current/Hidalgo_newCases.png)  |  
 
 |  7. Travis  |  8. Lubbock  |  
 |  :---   |   :---   |  
@@ -30,13 +30,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Collin_newCases.png)  |  ![img](/output/TX_counties_current/Denton_newCases.png)  |  
 
-|  11. Cameron  |  12. Nueces  |  
+|  11. Cameron  |  12. Fort Bend  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  
 
-|  13. Fort Bend  |  14. Webb  |  
+|  13. Nueces  |  14. Webb  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
 
 |  15. Montgomery  |  16. NA  |  
 |  :---   |   :---   |  

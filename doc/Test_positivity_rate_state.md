@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -22,13 +22,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NY_testPositiveRate.png)  |  ![img](/output/states_current/OH_testPositiveRate.png)  |  
 
-|  7. GA  |  8. WI  |  
+|  7. PA  |  8. GA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/WI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/GA_testPositiveRate.png)  |  
 
-|  9. MI  |  10. PA  |  
+|  9. WI  |  10. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_testPositiveRate.png)  |  ![img](/output/states_current/PA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WI_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
 
 |  11. TN  |  12. NC  |  
 |  :---   |   :---   |  
@@ -46,9 +46,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
 
-|  19. CO  |  20. MA  |  
+|  19. MA  |  20. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MA_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
 
 |  21. VA  |  22. LA  |  
 |  :---   |   :---   |  
@@ -58,21 +58,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
-|  25. UT  |  26. MD  |  
+|  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/UT_testPositiveRate.png)  |  ![img](/output/states_current/MD_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MD_testPositiveRate.png)  |  ![img](/output/states_current/UT_testPositiveRate.png)  |  
 
-|  27. IA  |  28. KY  |  
+|  27. KY  |  28. IA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/KY_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
 
-|  29. WA  |  30. AR  |  
+|  29. WA  |  30. NV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. KS  |  32. NV  |  
+|  31. AR  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
 
 |  33. MS  |  34. NE  |  
 |  :---   |   :---   |  
@@ -98,9 +98,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WV_testPositiveRate.png)  |  ![img](/output/states_current/DE_testPositiveRate.png)  |  
 
-|  45. WY  |  46. AK  |  
+|  45. AK  |  46. WY  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WY_testPositiveRate.png)  |  ![img](/output/states_current/AK_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AK_testPositiveRate.png)  |  ![img](/output/states_current/WY_testPositiveRate.png)  |  
 
 |  47. NH  |  48. DC  |  
 |  :---   |   :---   |  

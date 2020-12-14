@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -52,31 +52,31 @@
 
  <p>&nbsp;</p> 
 
-7. GA <p>
+7. PA <p>
+> <img src="/output/states_current/PA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/PA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/PA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/PA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+8. GA <p>
 > <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/GA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-8. WI <p>
+9. WI <p>
 > <img src="/output/states_current/WI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-9. MI <p>
+10. MI <p>
 > <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-10. PA <p>
-> <img src="/output/states_current/PA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/PA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/PA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/PA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -136,17 +136,17 @@
 
  <p>&nbsp;</p> 
 
-19. CO <p>
-> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/CO_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-20. MA <p>
+19. MA <p>
 > <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+20. CO <p>
+> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/CO_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -178,31 +178,31 @@
 
  <p>&nbsp;</p> 
 
-25. UT <p>
-> <img src="/output/states_current/UT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/UT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-26. MD <p>
+25. MD <p>
 > <img src="/output/states_current/MD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MD_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-27. IA <p>
-> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+26. UT <p>
+> <img src="/output/states_current/UT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/states_current/IA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+> <img src="/output/states_current/UT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-28. KY <p>
+27. KY <p>
 > <img src="/output/states_current/KY_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KY_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/KY_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/KY_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+28. IA <p>
+> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -213,24 +213,24 @@
 
  <p>&nbsp;</p> 
 
-30. AR <p>
+30. NV <p>
+> <img src="/output/states_current/NV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NV_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/NV_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/NV_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. AR <p>
 > <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AR_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/AR_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-31. KS <p>
+32. KS <p>
 > <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/KS_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/KS_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. NV <p>
-> <img src="/output/states_current/NV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NV_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/NV_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/NV_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -318,17 +318,17 @@
 
  <p>&nbsp;</p> 
 
-45. WY <p>
-> <img src="/output/states_current/WY_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WY_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/WY_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WY_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-46. AK <p>
+45. AK <p>
 > <img src="/output/states_current/AK_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AK_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AK_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/AK_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+46. WY <p>
+> <img src="/output/states_current/WY_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WY_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/WY_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WY_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

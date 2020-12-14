@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -31,17 +31,17 @@
 
  <p>&nbsp;</p> 
 
-4. El Paso <p>
-> <img src="/output/TX_counties_current/El Paso_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/El Paso_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/El Paso_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/El Paso_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-5. Bexar <p>
+4. Bexar <p>
 > <img src="/output/TX_counties_current/Bexar_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Bexar_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Bexar_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Bexar_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+5. El Paso <p>
+> <img src="/output/TX_counties_current/El Paso_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/El Paso_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/El Paso_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/El Paso_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -87,17 +87,17 @@
 
  <p>&nbsp;</p> 
 
-12. Nueces <p>
-> <img src="/output/TX_counties_current/Nueces_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Nueces_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-13. Fort Bend <p>
+12. Fort Bend <p>
 > <img src="/output/TX_counties_current/Fort Bend_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Fort Bend_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+13. Nueces <p>
+> <img src="/output/TX_counties_current/Nueces_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Nueces_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

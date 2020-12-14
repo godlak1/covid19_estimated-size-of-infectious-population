@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -45,80 +45,80 @@
 
  <p>&nbsp;</p> 
 
-6. Italy <p>
-> <img src="/output/countries_current/Italy_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Italy_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Italy_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Italy_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-7. United Kingdom <p>
+6. United Kingdom <p>
 > <img src="/output/countries_current/United Kingdom_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Kingdom_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Kingdom_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Kingdom_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-8. Spain <p>
+7. Italy <p>
+> <img src="/output/countries_current/Italy_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Italy_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Italy_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Italy_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+8. Turkey <p>
+> <img src="/output/countries_current/Turkey_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Turkey_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Turkey_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Turkey_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+9. Spain <p>
 > <img src="/output/countries_current/Spain_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Spain_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Spain_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Spain_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-9. Argentina <p>
+10. Argentina <p>
 > <img src="/output/countries_current/Argentina_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Argentina_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Argentina_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Argentina_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-10. Colombia <p>
+11. Colombia <p>
 > <img src="/output/countries_current/Colombia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Colombia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Colombia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Colombia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-11. Germany <p>
+12. Germany <p>
 > <img src="/output/countries_current/Germany_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Germany_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Germany_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Germany_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-12. Mexico <p>
+13. Mexico <p>
 > <img src="/output/countries_current/Mexico_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Mexico_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Mexico_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Mexico_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-13. Poland <p>
+14. Poland <p>
 > <img src="/output/countries_current/Poland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Poland_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Poland_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Poland_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-14. Iran <p>
+15. Iran <p>
 > <img src="/output/countries_current/Iran_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iran_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Iran_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iran_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-15. Peru <p>
+16. Peru <p>
 > <img src="/output/countries_current/Peru_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Peru_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Peru_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Peru_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-16. Turkey <p>
-> <img src="/output/countries_current/Turkey_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Turkey_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Turkey_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Turkey_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -136,45 +136,45 @@
 
  <p>&nbsp;</p> 
 
-19. Belgium <p>
-> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-20. Indonesia <p>
+19. Indonesia <p>
 > <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Indonesia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-21. Netherlands <p>
+20. Netherlands <p>
 > <img src="/output/countries_current/Netherlands_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Netherlands_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-22. Iraq <p>
+21. Belgium <p>
+> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+22. Czechia <p>
+> <img src="/output/countries_current/Czechia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Czechia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Czechia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Czechia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. Iraq <p>
 > <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Iraq_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iraq_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-23. Chile <p>
+24. Chile <p>
 > <img src="/output/countries_current/Chile_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Chile_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Chile_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Chile_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-24. Czechia <p>
-> <img src="/output/countries_current/Czechia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Czechia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Czechia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Czechia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -192,17 +192,17 @@
 
  <p>&nbsp;</p> 
 
-27. Philippines <p>
-> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-28. Canada <p>
+27. Canada <p>
 > <img src="/output/countries_current/Canada_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Canada_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Canada_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Canada_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+28. Philippines <p>
+> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. Saudi Arabia <p>
-> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. Switzerland <p>
+31. Switzerland <p>
 > <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Switzerland_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Saudi Arabia <p>
+> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -269,24 +269,24 @@
 
  <p>&nbsp;</p> 
 
-38. Jordan <p>
+38. Serbia <p>
+> <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Serbia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Serbia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+39. Jordan <p>
 > <img src="/output/countries_current/Jordan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Jordan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Jordan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Jordan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-39. Nepal <p>
+40. Nepal <p>
 > <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Nepal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-40. Serbia <p>
-> <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Serbia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Serbia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,45 +297,45 @@
 
  <p>&nbsp;</p> 
 
-42. Kazakhstan <p>
-> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. Panama <p>
+42. Panama <p>
 > <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Panama_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Panama_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-44. United Arab Emirates <p>
-> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-45. Georgia <p>
+43. Georgia <p>
 > <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-46. Bulgaria <p>
-> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
+44. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-47. Japan <p>
+45. United Arab Emirates <p>
+> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+46. Japan <p>
 > <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Japan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+47. Bulgaria <p>
+> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-08, COVID-19 Time Series
+## 2020-12-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -22,13 +22,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NY_newCases.png)  |  ![img](/output/states_current/OH_newCases.png)  |  
 
-|  7. GA  |  8. WI  |  
+|  7. PA  |  8. GA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/WI_newCases.png)  |  
+|  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
 
-|  9. MI  |  10. PA  |  
+|  9. WI  |  10. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_newCases.png)  |  ![img](/output/states_current/PA_newCases.png)  |  
+|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
 |  11. TN  |  12. NC  |  
 |  :---   |   :---   |  
@@ -46,9 +46,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
 
-|  19. CO  |  20. MA  |  
+|  19. MA  |  20. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
+|  ![img](/output/states_current/MA_newCases.png)  |  ![img](/output/states_current/CO_newCases.png)  |  
 
 |  21. VA  |  22. LA  |  
 |  :---   |   :---   |  
@@ -58,21 +58,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SC_newCases.png)  |  ![img](/output/states_current/OK_newCases.png)  |  
 
-|  25. UT  |  26. MD  |  
+|  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/UT_newCases.png)  |  ![img](/output/states_current/MD_newCases.png)  |  
+|  ![img](/output/states_current/MD_newCases.png)  |  ![img](/output/states_current/UT_newCases.png)  |  
 
-|  27. IA  |  28. KY  |  
+|  27. KY  |  28. IA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/KY_newCases.png)  |  
+|  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/IA_newCases.png)  |  
 
-|  29. WA  |  30. AR  |  
+|  29. WA  |  30. NV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/WA_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
 
-|  31. KS  |  32. NV  |  
+|  31. AR  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
+|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. MS  |  34. NE  |  
 |  :---   |   :---   |  
@@ -98,9 +98,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/DE_newCases.png)  |  
 
-|  45. WY  |  46. AK  |  
+|  45. AK  |  46. WY  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WY_newCases.png)  |  ![img](/output/states_current/AK_newCases.png)  |  
+|  ![img](/output/states_current/AK_newCases.png)  |  ![img](/output/states_current/WY_newCases.png)  |  
 
 |  47. NH  |  48. DC  |  
 |  :---   |   :---   |  
