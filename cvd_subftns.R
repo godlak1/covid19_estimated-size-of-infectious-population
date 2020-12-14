@@ -99,14 +99,14 @@ EM_confirmRate_k <- function(stdat6, sparam1, sparam2){
     #fit0 = lm(yy1 ~ yy2 + yy2_2 + yy2_3 + yy2_4 )
     
     # 09/12 to speed up
-    fit0 = lm(yy1 ~ yy2 + yy2_2 + yy2_3 ) ; #print(fit0$coefficients)
+    fit0 = lm(yy1 ~ yy2 + yy2_2 + yy2_3 + yy2_4 ) ; #print(fit0$coefficients)
     yy1_k = as.numeric(fit0$fitted.values)
     
     # 07/31, from VT example, non-negative constraints needed. 
     #if (any(is.na(coef(fit0))) | (coef(fit0)[2] < 0) | (coef(fit0)[3] < 0)){
     if (any(is.na(coef(fit0))) | (coef(fit0)[2] < 0) ){
       #print('Coef < 0 => penalized')
-      pen = penalized(yy1, ~ yy2 + yy2_2 + yy2_3  , ~ 1, lambda1=0, lambda2=0, positive = T, trace=F, maxiter=100)
+      pen = penalized(yy1, ~ yy2 + yy2_2 + yy2_3 + yy2_4 , ~ 1, lambda1=0, lambda2=0, positive = T, trace=F, maxiter=100)
       yy1_k = as.numeric(fitted(pen))
       #print(coef(pen))
     }
