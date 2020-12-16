@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-13, COVID-19 Time Series
+## 2020-12-15, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -30,9 +30,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Collin_newCases.png)  |  ![img](/output/TX_counties_current/Denton_newCases.png)  |  
 
-|  11. Cameron  |  12. Fort Bend  |  
+|  11. Fort Bend  |  12. Cameron  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  
 
 |  13. Nueces  |  14. Webb  |  
 |  :---   |   :---   |  

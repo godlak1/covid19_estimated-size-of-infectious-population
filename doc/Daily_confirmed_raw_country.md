@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-13, COVID-19 Time Series
+## 2020-12-15, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -18,13 +18,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Brazil_newCases.png)  |  ![img](/output/countries_current/Russia_newCases.png)  |  
 
-|  5. France  |  6. United Kingdom  |  
+|  5. France  |  6. Turkey  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/France_newCases.png)  |  ![img](/output/countries_current/United Kingdom_newCases.png)  |  
+|  ![img](/output/countries_current/France_newCases.png)  |  ![img](/output/countries_current/Turkey_newCases.png)  |  
 
-|  7. Italy  |  8. Turkey  |  
+|  7. United Kingdom  |  8. Italy  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Italy_newCases.png)  |  ![img](/output/countries_current/Turkey_newCases.png)  |  
+|  ![img](/output/countries_current/United Kingdom_newCases.png)  |  ![img](/output/countries_current/Italy_newCases.png)  |  
 
 |  9. Spain  |  10. Argentina  |  
 |  :---   |   :---   |  
@@ -70,17 +70,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Pakistan_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
-|  31. Switzerland  |  32. Saudi Arabia  |  
+|  31. Switzerland  |  32. Israel  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
+|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
-|  33. Israel  |  34. Portugal  |  
+|  33. Saudi Arabia  |  34. Portugal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
+|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
-|  35. Austria  |  36. Sweden  |  
+|  35. Sweden  |  36. Austria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
+|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
 
 |  37. Hungary  |  38. Serbia  |  
 |  :---   |   :---   |  
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
 
-|  47. Bulgaria  |  48. Croatia  |  
+|  47. Bulgaria  |  48. Azerbaijan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Bulgaria_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Bulgaria_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
 
-|  49. Azerbaijan  |  50. Belarus  |  
+|  49. Croatia  |  50. Belarus  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
+|  ![img](/output/countries_current/Croatia_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

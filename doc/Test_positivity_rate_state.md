@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-13, COVID-19 Time Series
+## 2020-12-15, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,9 +26,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/GA_testPositiveRate.png)  |  
 
-|  9. WI  |  10. MI  |  
+|  9. MI  |  10. WI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WI_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MI_testPositiveRate.png)  |  ![img](/output/states_current/WI_testPositiveRate.png)  |  
 
 |  11. TN  |  12. NC  |  
 |  :---   |   :---   |  
@@ -70,29 +70,29 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. AR  |  32. KS  |  
+|  31. KS  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
 
-|  33. MS  |  34. NE  |  
+|  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MS_testPositiveRate.png)  |  ![img](/output/states_current/NE_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MS_testPositiveRate.png)  |  ![img](/output/states_current/CT_testPositiveRate.png)  |  
 
-|  35. CT  |  36. ID  |  
+|  35. NE  |  36. NM  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CT_testPositiveRate.png)  |  ![img](/output/states_current/ID_testPositiveRate.png)  |  
+|  ![img](/output/states_current/NE_testPositiveRate.png)  |  ![img](/output/states_current/NM_testPositiveRate.png)  |  
 
-|  37. NM  |  38. OR  |  
+|  37. ID  |  38. OR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NM_testPositiveRate.png)  |  ![img](/output/states_current/OR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/ID_testPositiveRate.png)  |  ![img](/output/states_current/OR_testPositiveRate.png)  |  
 
 |  39. SD  |  40. ND  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
 
-|  41. MT  |  42. RI  |  
+|  41. RI  |  42. MT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MT_testPositiveRate.png)  |  ![img](/output/states_current/RI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/RI_testPositiveRate.png)  |  ![img](/output/states_current/MT_testPositiveRate.png)  |  
 
 |  43. WV  |  44. DE  |  
 |  :---   |   :---   |  

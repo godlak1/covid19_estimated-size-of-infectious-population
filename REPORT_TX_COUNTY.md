@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-13, COVID-19 Time Series
+## 2020-12-15, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -80,17 +80,17 @@
 
  <p>&nbsp;</p> 
 
-11. Cameron <p>
-> <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Cameron_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-12. Fort Bend <p>
+11. Fort Bend <p>
 > <img src="/output/TX_counties_current/Fort Bend_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Fort Bend_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+12. Cameron <p>
+> <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Cameron_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
