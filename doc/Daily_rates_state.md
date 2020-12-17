@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-15, COVID-19 Time Series
+## 2020-12-16, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,24 +66,24 @@
 
  <p>&nbsp;</p> 
 
-9. MI <p>
+9. TN <p>
+> <img src="/output/states_current/TN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/TN_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/TN_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/TN_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+10. MI <p>
 > <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MI_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MI_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-10. WI <p>
+11. WI <p>
 > <img src="/output/states_current/WI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WI_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WI_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/WI_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-11. TN <p>
-> <img src="/output/states_current/TN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/TN_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/TN_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/TN_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. NV <p>
-> <img src="/output/states_current/NV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NV_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/NV_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NV_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. KS <p>
+30. KS <p>
 > <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/KS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/KS_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. NV <p>
+> <img src="/output/states_current/NV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NV_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/NV_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NV_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

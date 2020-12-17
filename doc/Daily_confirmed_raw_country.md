@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-15, COVID-19 Time Series
+## 2020-12-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -46,9 +46,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ukraine_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
 
-|  19. Indonesia  |  20. Netherlands  |  
+|  19. Netherlands  |  20. Indonesia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Indonesia_newCases.png)  |  ![img](/output/countries_current/Netherlands_newCases.png)  |  
+|  ![img](/output/countries_current/Netherlands_newCases.png)  |  ![img](/output/countries_current/Indonesia_newCases.png)  |  
 
 |  21. Belgium  |  22. Czechia  |  
 |  :---   |   :---   |  
@@ -102,9 +102,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
 
-|  47. Bulgaria  |  48. Azerbaijan  |  
+|  47. Azerbaijan  |  48. Bulgaria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Bulgaria_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
+|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
 |  49. Croatia  |  50. Belarus  |  
 |  :---   |   :---   |  

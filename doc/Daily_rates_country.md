@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-15, COVID-19 Time Series
+## 2020-12-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -136,17 +136,17 @@
 
  <p>&nbsp;</p> 
 
-19. Indonesia <p>
-> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Indonesia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-20. Netherlands <p>
+19. Netherlands <p>
 > <img src="/output/countries_current/Netherlands_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Netherlands_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+20. Indonesia <p>
+> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Indonesia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -332,17 +332,17 @@
 
  <p>&nbsp;</p> 
 
-47. Bulgaria <p>
-> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Azerbaijan <p>
+47. Azerbaijan <p>
 > <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Azerbaijan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Bulgaria <p>
+> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

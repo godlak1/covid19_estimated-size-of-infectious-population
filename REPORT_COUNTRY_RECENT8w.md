@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-15, COVID-19 Time Series
+## 2020-12-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -136,17 +136,17 @@
 
  <p>&nbsp;</p> 
 
-19. Indonesia <p>
-> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Indonesia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-20. Netherlands <p>
+19. Netherlands <p>
 > <img src="/output/countries_current/Netherlands_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Netherlands_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+20. Indonesia <p>
+> <img src="/output/countries_current/Indonesia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Indonesia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Indonesia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -332,17 +332,17 @@
 
  <p>&nbsp;</p> 
 
-47. Bulgaria <p>
-> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bulgaria_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Azerbaijan <p>
+47. Azerbaijan <p>
 > <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Azerbaijan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Bulgaria <p>
+> <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bulgaria_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

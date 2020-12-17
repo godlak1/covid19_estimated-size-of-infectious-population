@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-15, COVID-19 Time Series
+## 2020-12-16, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
 
-|  9. MI  |  10. WI  |  
+|  9. TN  |  10. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_newCases.png)  |  ![img](/output/states_current/WI_newCases.png)  |  
+|  ![img](/output/states_current/TN_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
-|  11. TN  |  12. NC  |  
+|  11. WI  |  12. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/TN_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
+|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
 
 |  13. IN  |  14. AZ  |  
 |  :---   |   :---   |  
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/IA_newCases.png)  |  
 
-|  29. WA  |  30. NV  |  
+|  29. WA  |  30. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WA_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
+|  ![img](/output/states_current/WA_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
-|  31. KS  |  32. AR  |  
+|  31. NV  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
