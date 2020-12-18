@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-16, COVID-19 Time Series
+## 2020-12-17, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -74,9 +74,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
-|  33. Saudi Arabia  |  34. Portugal  |  
+|  33. Portugal  |  34. Saudi Arabia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
+|  ![img](/output/countries_current/Portugal_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
 
 |  35. Sweden  |  36. Austria  |  
 |  :---   |   :---   |  
@@ -94,17 +94,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Panama_newCases.png)  |  
 
-|  43. Georgia  |  44. Kazakhstan  |  
+|  43. Georgia  |  44. Azerbaijan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
+|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
 
-|  45. United Arab Emirates  |  46. Japan  |  
+|  45. Japan  |  46. United Arab Emirates  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
 
-|  47. Azerbaijan  |  48. Bulgaria  |  
+|  47. Kazakhstan  |  48. Bulgaria  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
+|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
 
 |  49. Croatia  |  50. Belarus  |  
 |  :---   |   :---   |  

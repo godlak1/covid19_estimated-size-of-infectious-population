@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-16, COVID-19 Time Series
+## 2020-12-17, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -234,17 +234,17 @@
 
  <p>&nbsp;</p> 
 
-33. Saudi Arabia <p>
-> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-34. Portugal <p>
+33. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+34. Saudi Arabia <p>
+> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -311,31 +311,31 @@
 
  <p>&nbsp;</p> 
 
-44. Kazakhstan <p>
-> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+44. Azerbaijan <p>
+> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-45. United Arab Emirates <p>
-> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Azerbaijan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-46. Japan <p>
+45. Japan <p>
 > <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Japan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-47. Azerbaijan <p>
-> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+46. United Arab Emirates <p>
+> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Azerbaijan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+47. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
