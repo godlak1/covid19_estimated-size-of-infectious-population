@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-18, COVID-19 Time Series
+## 2020-12-19, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -171,17 +171,17 @@
 
  <p>&nbsp;</p> 
 
-24. Iraq <p>
-> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Iraq_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iraq_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-25. Chile <p>
+24. Chile <p>
 > <img src="/output/countries_current/Chile_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Chile_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Chile_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Chile_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+25. Iraq <p>
+> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Iraq_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iraq_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -234,17 +234,17 @@
 
  <p>&nbsp;</p> 
 
-33. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-34. Portugal <p>
+33. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+34. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. Ecuador <p>
-> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. Georgia <p>
+42. Georgia <p>
 > <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. Ecuador <p>
+> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -325,31 +325,31 @@
 
  <p>&nbsp;</p> 
 
-46. United Arab Emirates <p>
-> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-47. Kazakhstan <p>
-> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Croatia <p>
+46. Croatia <p>
 > <img src="/output/countries_current/Croatia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Croatia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Croatia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Croatia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-49. Bulgaria <p>
+47. United Arab Emirates <p>
+> <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Bulgaria <p>
 > <img src="/output/countries_current/Bulgaria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Bulgaria_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bulgaria_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+49. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-18, COVID-19 Time Series
+## 2020-12-19, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
 
-|  29. WA  |  30. KS  |  
+|  29. WA  |  30. NV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. NV  |  32. AR  |  
+|  31. KS  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NV_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
