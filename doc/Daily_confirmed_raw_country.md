@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-19, COVID-19 Time Series
+## 2020-12-20, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -18,13 +18,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Brazil_newCases.png)  |  ![img](/output/countries_current/Russia_newCases.png)  |  
 
-|  5. France  |  6. Turkey  |  
+|  5. France  |  6. United Kingdom  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/France_newCases.png)  |  ![img](/output/countries_current/Turkey_newCases.png)  |  
+|  ![img](/output/countries_current/France_newCases.png)  |  ![img](/output/countries_current/United Kingdom_newCases.png)  |  
 
-|  7. United Kingdom  |  8. Italy  |  
+|  7. Turkey  |  8. Italy  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Kingdom_newCases.png)  |  ![img](/output/countries_current/Italy_newCases.png)  |  
+|  ![img](/output/countries_current/Turkey_newCases.png)  |  ![img](/output/countries_current/Italy_newCases.png)  |  
 
 |  9. Spain  |  10. Argentina  |  
 |  :---   |   :---   |  
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
-|  47. United Arab Emirates  |  48. Bulgaria  |  
+|  47. United Arab Emirates  |  48. Kazakhstan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
 
-|  49. Kazakhstan  |  50. Belarus  |  
+|  49. Bulgaria  |  50. Belarus  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
+|  ![img](/output/countries_current/Bulgaria_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

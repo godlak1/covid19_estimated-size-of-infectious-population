@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-19, COVID-19 Time Series
+## 2020-12-20, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -22,13 +22,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NY_testPositiveRate.png)  |  ![img](/output/states_current/OH_testPositiveRate.png)  |  
 
-|  7. PA  |  8. GA  |  
+|  7. PA  |  8. TN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/GA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/TN_testPositiveRate.png)  |  
 
-|  9. TN  |  10. MI  |  
+|  9. GA  |  10. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/TN_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
 
 |  11. WI  |  12. NC  |  
 |  :---   |   :---   |  
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
-|  17. MO  |  18. AL  |  
+|  17. MO  |  18. MA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
 
-|  19. MA  |  20. CO  |  
+|  19. AL  |  20. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MA_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
 
 |  21. VA  |  22. LA  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. KS  |  32. AR  |  
+|  31. AR  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
