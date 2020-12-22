@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-20, COVID-19 Time Series
+## 2020-12-21, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -58,9 +58,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
-|  25. UT  |  26. MD  |  
+|  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/UT_testPositiveRate.png)  |  ![img](/output/states_current/MD_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MD_testPositiveRate.png)  |  ![img](/output/states_current/UT_testPositiveRate.png)  |  
 
 |  27. KY  |  28. IA  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. AR  |  32. KS  |  
+|  31. KS  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

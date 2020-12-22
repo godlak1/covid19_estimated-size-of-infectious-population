@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-20, COVID-19 Time Series
+## 2020-12-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -38,21 +38,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Mexico_newCases.png)  |  ![img](/output/countries_current/Poland_newCases.png)  |  
 
-|  15. Iran  |  16. Peru  |  
+|  15. Iran  |  16. Ukraine  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/Peru_newCases.png)  |  
+|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/Ukraine_newCases.png)  |  
 
-|  17. Ukraine  |  18. South Africa  |  
+|  17. Peru  |  18. South Africa  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Ukraine_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
+|  ![img](/output/countries_current/Peru_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
 
 |  19. Netherlands  |  20. Indonesia  |  
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Netherlands_newCases.png)  |  ![img](/output/countries_current/Indonesia_newCases.png)  |  
 
-|  21. Belgium  |  22. Czechia  |  
+|  21. Czechia  |  22. Belgium  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Czechia_newCases.png)  |  
+|  ![img](/output/countries_current/Czechia_newCases.png)  |  ![img](/output/countries_current/Belgium_newCases.png)  |  
 
 |  23. Romania  |  24. Chile  |  
 |  :---   |   :---   |  
