@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-21, COVID-19 Time Series
+## 2020-12-22, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -46,13 +46,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
 
-|  19. AL  |  20. CO  |  
+|  19. AL  |  20. VA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/VA_testPositiveRate.png)  |  
 
-|  21. VA  |  22. LA  |  
+|  21. CO  |  22. LA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/LA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/LA_testPositiveRate.png)  |  
 
 |  23. SC  |  24. OK  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. KS  |  32. AR  |  
+|  31. AR  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

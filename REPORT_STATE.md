@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-21, COVID-19 Time Series
+## 2020-12-22, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -143,17 +143,17 @@
 
  <p>&nbsp;</p> 
 
-20. CO <p>
-> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/CO_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-21. VA <p>
+20. VA <p>
 > <img src="/output/states_current/VA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/VA_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/VA_estInfections.png" width="49.5%"/> <img src="/output/states_current/VA_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+21. CO <p>
+> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/CO_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. KS <p>
-> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/KS_estInfections.png" width="49.5%"/> <img src="/output/states_current/KS_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. AR <p>
+31. AR <p>
 > <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AR_estInfections.png" width="49.5%"/> <img src="/output/states_current/AR_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. KS <p>
+> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/KS_estInfections.png" width="49.5%"/> <img src="/output/states_current/KS_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
