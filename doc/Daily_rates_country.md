@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-22, COVID-19 Time Series
+## 2020-12-23, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -199,31 +199,31 @@
 
  <p>&nbsp;</p> 
 
-28. Philippines <p>
-> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-29. Pakistan <p>
+28. Pakistan <p>
 > <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Pakistan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-30. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_cnvd_AscertainmentRate.png" width="49.5%"/> 
+29. Philippines <p>
+> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Morocco_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-31. Switzerland <p>
+30. Switzerland <p>
 > <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Switzerland_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -304,17 +304,17 @@
 
  <p>&nbsp;</p> 
 
-43. Ecuador <p>
-> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-44. Azerbaijan <p>
+43. Azerbaijan <p>
 > <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Azerbaijan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+44. Ecuador <p>
+> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
