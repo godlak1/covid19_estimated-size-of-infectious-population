@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-23, COVID-19 Time Series
+## 2020-12-24, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -94,13 +94,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
-|  43. Azerbaijan  |  44. Ecuador  |  
+|  43. Japan  |  44. Azerbaijan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
 
-|  45. Japan  |  46. Croatia  |  
+|  45. Ecuador  |  46. Croatia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
 |  47. United Arab Emirates  |  48. Bulgaria  |  
 |  :---   |   :---   |  

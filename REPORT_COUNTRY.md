@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-23, COVID-19 Time Series
+## 2020-12-24, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -304,24 +304,24 @@
 
  <p>&nbsp;</p> 
 
-43. Azerbaijan <p>
+43. Japan <p>
+> <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Japan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+44. Azerbaijan <p>
 > <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Azerbaijan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-44. Ecuador <p>
+45. Ecuador <p>
 > <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Ecuador_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-45. Japan <p>
-> <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Japan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
