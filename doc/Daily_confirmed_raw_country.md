@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-24, COVID-19 Time Series
+## 2020-12-25, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -30,9 +30,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Spain_newCases.png)  |  ![img](/output/countries_current/Germany_newCases.png)  |  
 
-|  11. Argentina  |  12. Colombia  |  
+|  11. Colombia  |  12. Argentina  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Argentina_newCases.png)  |  ![img](/output/countries_current/Colombia_newCases.png)  |  
+|  ![img](/output/countries_current/Colombia_newCases.png)  |  ![img](/output/countries_current/Argentina_newCases.png)  |  
 
 |  13. Mexico  |  14. Poland  |  
 |  :---   |   :---   |  

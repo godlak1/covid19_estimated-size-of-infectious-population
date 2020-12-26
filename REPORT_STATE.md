@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-24, COVID-19 Time Series
+## 2020-12-25, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -129,17 +129,17 @@
 
  <p>&nbsp;</p> 
 
-18. MA <p>
-> <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MA_estInfections.png" width="49.5%"/> <img src="/output/states_current/MA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-19. AL <p>
+18. AL <p>
 > <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AL_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+19. MA <p>
+> <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MA_estInfections.png" width="49.5%"/> <img src="/output/states_current/MA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

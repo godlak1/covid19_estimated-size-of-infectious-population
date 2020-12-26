@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-24, COVID-19 Time Series
+## 2020-12-25, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
-|  17. MO  |  18. MA  |  
+|  17. MO  |  18. AL  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
 
-|  19. AL  |  20. VA  |  
+|  19. MA  |  20. VA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/VA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MA_testPositiveRate.png)  |  ![img](/output/states_current/VA_testPositiveRate.png)  |  
 
 |  21. CO  |  22. LA  |  
 |  :---   |   :---   |  

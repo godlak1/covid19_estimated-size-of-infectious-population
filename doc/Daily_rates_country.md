@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-24, COVID-19 Time Series
+## 2020-12-25, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -80,17 +80,17 @@
 
  <p>&nbsp;</p> 
 
-11. Argentina <p>
-> <img src="/output/countries_current/Argentina_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Argentina_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Argentina_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Argentina_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-12. Colombia <p>
+11. Colombia <p>
 > <img src="/output/countries_current/Colombia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Colombia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Colombia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Colombia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+12. Argentina <p>
+> <img src="/output/countries_current/Argentina_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Argentina_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Argentina_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Argentina_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
