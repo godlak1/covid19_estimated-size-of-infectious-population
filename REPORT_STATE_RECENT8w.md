@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-25, COVID-19 Time Series
+## 2020-12-26, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -80,31 +80,31 @@
 
  <p>&nbsp;</p> 
 
-11. WI <p>
-> <img src="/output/states_current/WI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/WI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-12. NC <p>
+11. NC <p>
 > <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NC_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/NC_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-13. IN <p>
-> <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+12. WI <p>
+> <img src="/output/states_current/WI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/states_current/IN_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+> <img src="/output/states_current/WI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-14. AZ <p>
+13. AZ <p>
 > <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AZ_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/AZ_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+14. IN <p>
+> <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IN_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -129,17 +129,17 @@
 
  <p>&nbsp;</p> 
 
-18. AL <p>
-> <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/AL_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-19. MA <p>
+18. MA <p>
 > <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+19. AL <p>
+> <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/AL_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. MT <p>
-> <img src="/output/states_current/MT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. WV <p>
+42. WV <p>
 > <img src="/output/states_current/WV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WV_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WV_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WV_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. MT <p>
+> <img src="/output/states_current/MT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-25, COVID-19 Time Series
+## 2020-12-26, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -30,25 +30,25 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
-|  11. WI  |  12. NC  |  
+|  11. NC  |  12. WI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
+|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/WI_newCases.png)  |  
 
-|  13. IN  |  14. AZ  |  
+|  13. AZ  |  14. IN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IN_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
+|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
 
 |  15. NJ  |  16. MN  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NJ_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
 
-|  17. MO  |  18. AL  |  
+|  17. MO  |  18. MA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
+|  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
 
-|  19. MA  |  20. VA  |  
+|  19. AL  |  20. VA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MA_newCases.png)  |  ![img](/output/states_current/VA_newCases.png)  |  
+|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/VA_newCases.png)  |  
 
 |  21. CO  |  22. LA  |  
 |  :---   |   :---   |  
@@ -90,13 +90,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
-|  41. RI  |  42. MT  |  
+|  41. RI  |  42. WV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/MT_newCases.png)  |  
+|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/WV_newCases.png)  |  
 
-|  43. WV  |  44. DE  |  
+|  43. MT  |  44. DE  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/DE_newCases.png)  |  
+|  ![img](/output/states_current/MT_newCases.png)  |  ![img](/output/states_current/DE_newCases.png)  |  
 
 |  45. AK  |  46. WY  |  
 |  :---   |   :---   |  

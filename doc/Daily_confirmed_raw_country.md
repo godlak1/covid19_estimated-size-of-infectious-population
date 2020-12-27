@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-25, COVID-19 Time Series
+## 2020-12-26, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -66,17 +66,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
 
-|  29. Philippines  |  30. Switzerland  |  
+|  29. Philippines  |  30. Morocco  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
+|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
-|  31. Morocco  |  32. Sweden  |  
+|  31. Switzerland  |  32. Israel  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
+|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
-|  33. Israel  |  34. Portugal  |  
+|  33. Sweden  |  34. Portugal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
+|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
 |  35. Saudi Arabia  |  36. Austria  |  
 |  :---   |   :---   |  
