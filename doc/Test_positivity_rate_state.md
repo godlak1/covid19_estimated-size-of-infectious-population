@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-26, COVID-19 Time Series
+## 2020-12-27, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/TN_testPositiveRate.png)  |  
 
-|  9. GA  |  10. MI  |  
+|  9. GA  |  10. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/NC_testPositiveRate.png)  |  
 
-|  11. NC  |  12. WI  |  
+|  11. MI  |  12. WI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_testPositiveRate.png)  |  ![img](/output/states_current/WI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MI_testPositiveRate.png)  |  ![img](/output/states_current/WI_testPositiveRate.png)  |  
 
 |  13. AZ  |  14. IN  |  
 |  :---   |   :---   |  
@@ -62,13 +62,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MD_testPositiveRate.png)  |  ![img](/output/states_current/UT_testPositiveRate.png)  |  
 
-|  27. KY  |  28. IA  |  
+|  27. KY  |  28. WA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
 
-|  29. WA  |  30. NV  |  
+|  29. IA  |  30. NV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
 |  31. AR  |  32. KS  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-26, COVID-19 Time Series
+## 2020-12-27, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
-|  47. United Arab Emirates  |  48. Bulgaria  |  
+|  47. United Arab Emirates  |  48. Kazakhstan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
 
-|  49. Kazakhstan  |  50. Belarus  |  
+|  49. Bulgaria  |  50. Belarus  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
+|  ![img](/output/countries_current/Bulgaria_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

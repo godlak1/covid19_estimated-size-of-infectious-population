@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-26, COVID-19 Time Series
+## 2020-12-27, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -73,17 +73,17 @@
 
  <p>&nbsp;</p> 
 
-10. MI <p>
-> <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MI_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-11. NC <p>
+10. NC <p>
 > <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NC_estInfections.png" width="49.5%"/> <img src="/output/states_current/NC_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+11. MI <p>
+> <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MI_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -199,17 +199,17 @@
 
  <p>&nbsp;</p> 
 
-28. IA <p>
-> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/IA_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-29. WA <p>
+28. WA <p>
 > <img src="/output/states_current/WA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WA_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WA_estInfections.png" width="49.5%"/> <img src="/output/states_current/WA_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+29. IA <p>
+> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IA_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
