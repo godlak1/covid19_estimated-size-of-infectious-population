@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-27, COVID-19 Time Series
+## 2020-12-28, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -122,17 +122,17 @@
 
  <p>&nbsp;</p> 
 
-17. Peru <p>
-> <img src="/output/countries_current/Peru_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Peru_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Peru_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Peru_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-18. South Africa <p>
+17. South Africa <p>
 > <img src="/output/countries_current/South Africa_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/South Africa_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/South Africa_estInfections.png" width="49.5%"/> <img src="/output/countries_current/South Africa_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+18. Peru <p>
+> <img src="/output/countries_current/Peru_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Peru_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Peru_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Peru_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. Switzerland <p>
+30. Switzerland <p>
 > <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Switzerland_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -234,17 +234,17 @@
 
  <p>&nbsp;</p> 
 
-33. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-34. Portugal <p>
+33. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+34. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Sweden_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. Japan <p>
+42. Japan <p>
 > <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Japan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
