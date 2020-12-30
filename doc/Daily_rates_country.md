@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-28, COVID-19 Time Series
+## 2020-12-29, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -227,24 +227,24 @@
 
  <p>&nbsp;</p> 
 
-32. Israel <p>
+32. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+33. Israel <p>
 > <img src="/output/countries_current/Israel_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Israel_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Israel_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Israel_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-33. Portugal <p>
+34. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-34. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
