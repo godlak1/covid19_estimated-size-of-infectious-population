@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-29, COVID-19 Time Series
+## 2020-12-30, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -14,13 +14,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/CA_newCases.png)  |  ![img](/output/states_current/TX_newCases.png)  |  
 
-|  3. FL  |  4. IL  |  
+|  3. FL  |  4. NY  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/FL_newCases.png)  |  ![img](/output/states_current/IL_newCases.png)  |  
+|  ![img](/output/states_current/FL_newCases.png)  |  ![img](/output/states_current/NY_newCases.png)  |  
 
-|  5. NY  |  6. OH  |  
+|  5. IL  |  6. OH  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NY_newCases.png)  |  ![img](/output/states_current/OH_newCases.png)  |  
+|  ![img](/output/states_current/IL_newCases.png)  |  ![img](/output/states_current/OH_newCases.png)  |  
 
 |  7. PA  |  8. TN  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
 
-|  31. AR  |  32. KS  |  
+|  31. KS  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
