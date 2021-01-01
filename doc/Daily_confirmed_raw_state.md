@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-30, COVID-19 Time Series
+## 2020-12-31, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. IA  |  30. NV  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
-|  31. KS  |  32. AR  |  
+|  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

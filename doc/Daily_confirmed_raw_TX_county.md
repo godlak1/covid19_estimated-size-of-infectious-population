@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-30, COVID-19 Time Series
+## 2020-12-31, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -30,15 +30,15 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Lubbock_newCases.png)  |  ![img](/output/TX_counties_current/Denton_newCases.png)  |  
 
-|  11. Fort Bend  |  12. Cameron  |  
+|  11. Fort Bend  |  12. Nueces  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  
 
-|  13. Nueces  |  14. Montgomery  |  
+|  13. Cameron  |  14. Webb  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Cameron_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
 
-|  15. Webb  |  16. NA  |  
+|  15. Montgomery  |  16. NA  |  
 |  :---   |   :---   |  
-|  <img src="/output/TX_counties_current/Webb_newCases.png" width="49.5%"/> |   NA  |  
+|  <img src="/output/TX_counties_current/Montgomery_newCases.png" width="49.5%"/> |   NA  |  
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-30, COVID-19 Time Series
+## 2020-12-31, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. Morocco <p>
+31. Morocco <p>
 > <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Morocco_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

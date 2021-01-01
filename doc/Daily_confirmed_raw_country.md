@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-30, COVID-19 Time Series
+## 2020-12-31, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
-|  31. Sweden  |  32. Morocco  |  
+|  31. Morocco  |  32. Sweden  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
+|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
 
 |  33. Israel  |  34. Portugal  |  
 |  :---   |   :---   |  
