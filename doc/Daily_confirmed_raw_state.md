@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-31, COVID-19 Time Series
+## 2021-01-01, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -30,13 +30,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
 
-|  11. MI  |  12. WI  |  
+|  11. AZ  |  12. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_newCases.png)  |  ![img](/output/states_current/WI_newCases.png)  |  
+|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
-|  13. AZ  |  14. IN  |  
+|  13. WI  |  14. IN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
+|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
 
 |  15. NJ  |  16. MN  |  
 |  :---   |   :---   |  
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. IA  |  30. AR  |  
+|  29. IA  |  30. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
-|  31. NV  |  32. KS  |  
+|  31. NV  |  32. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

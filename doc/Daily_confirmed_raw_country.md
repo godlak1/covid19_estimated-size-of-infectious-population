@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-31, COVID-19 Time Series
+## 2021-01-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -78,9 +78,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
-|  35. Saudi Arabia  |  36. Austria  |  
+|  35. Austria  |  36. Saudi Arabia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Austria_newCases.png)  |  
+|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
 
 |  37. Serbia  |  38. Hungary  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2020-12-31, COVID-19 Time Series
+## 2021-01-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -248,17 +248,17 @@
 
  <p>&nbsp;</p> 
 
-35. Saudi Arabia <p>
-> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Saudi Arabia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-36. Austria <p>
+35. Austria <p>
 > <img src="/output/countries_current/Austria_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Austria_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Austria_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Austria_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+36. Saudi Arabia <p>
+> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Saudi Arabia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
