@@ -82,10 +82,11 @@ cvd_country_LatentInfections = function(curDate, stname, jhudat, jhudat2, jhudat
   mm_tmp = tmp[seq(1, length(tmp), by=3)]
   date_mm = as.numeric(substr(mm_tmp, 2, 3))  
   date_dd = as.numeric(tmp[seq(2, length(tmp), by=3)])
+  date_yy = as.numeric(tmp[seq(3, length(tmp), by=3)])
 
   mydates = as.Date('2020-03-05')
   for (i in 1:length(date1)){
-    mydates[i] = as.Date(paste0("2020-", date_mm[i], "-", date_dd[i]))
+    mydates[i] = as.Date(paste0("20", date_yy[i], "-", date_mm[i], "-", date_dd[i]))
   }
   
   #

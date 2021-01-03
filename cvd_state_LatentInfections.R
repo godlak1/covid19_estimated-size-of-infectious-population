@@ -69,9 +69,13 @@ cvd_state_LatentInfections = function(curDate, stname, covidtrackingDat,
   date_mmdd = date1 %% 10000
   date_mm = date_mmdd %/% 100
   date_dd = date_mmdd %% 100 
+
+  # fix date bug in 2021
+  date_yyyy = date1 %/% 10000
+
   mydates = as.Date('2020-03-05')
   for (i in 1:length(date1)){
-    mydates[i] = as.Date(paste0("2020-", date_mm[i], "-", date_dd[i]))
+    mydates[i] = as.Date(paste0(date_yyyy[i], "-", date_mm[i], "-", date_dd[i]))
   }
   
   #
