@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-01, COVID-19 Time Series
+## 2021-01-02, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. IA  |  30. KS  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
-|  31. NV  |  32. AR  |  
+|  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
@@ -90,21 +90,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
-|  41. RI  |  42. WV  |  
+|  41. WV  |  42. RI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/WV_newCases.png)  |  
+|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/RI_newCases.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MT_newCases.png)  |  ![img](/output/states_current/DE_newCases.png)  |  
 
-|  45. AK  |  46. WY  |  
+|  45. AK  |  46. NH  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AK_newCases.png)  |  ![img](/output/states_current/WY_newCases.png)  |  
+|  ![img](/output/states_current/AK_newCases.png)  |  ![img](/output/states_current/NH_newCases.png)  |  
 
-|  47. NH  |  48. DC  |  
+|  47. WY  |  48. DC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NH_newCases.png)  |  ![img](/output/states_current/DC_newCases.png)  |  
+|  ![img](/output/states_current/WY_newCases.png)  |  ![img](/output/states_current/DC_newCases.png)  |  
 
 |  49. ME  |  50. HI  |  
 |  :---   |   :---   |  

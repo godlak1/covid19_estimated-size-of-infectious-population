@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-01, COVID-19 Time Series
+## 2021-01-02, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
 
-|  29. IA  |  30. KS  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
 
-|  31. NV  |  32. AR  |  
+|  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NV_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/NV_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
@@ -90,21 +90,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
 
-|  41. RI  |  42. WV  |  
+|  41. WV  |  42. RI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/RI_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WV_testPositiveRate.png)  |  ![img](/output/states_current/RI_testPositiveRate.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MT_testPositiveRate.png)  |  ![img](/output/states_current/DE_testPositiveRate.png)  |  
 
-|  45. AK  |  46. WY  |  
+|  45. AK  |  46. NH  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AK_testPositiveRate.png)  |  ![img](/output/states_current/WY_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AK_testPositiveRate.png)  |  ![img](/output/states_current/NH_testPositiveRate.png)  |  
 
-|  47. NH  |  48. DC  |  
+|  47. WY  |  48. DC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NH_testPositiveRate.png)  |  ![img](/output/states_current/DC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WY_testPositiveRate.png)  |  ![img](/output/states_current/DC_testPositiveRate.png)  |  
 
 |  49. ME  |  50. HI  |  
 |  :---   |   :---   |  
