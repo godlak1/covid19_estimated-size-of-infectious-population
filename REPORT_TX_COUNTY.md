@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-02, COVID-19 Time Series
+## 2021-01-03, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -45,17 +45,17 @@
 
  <p>&nbsp;</p> 
 
-6. Hidalgo <p>
-> <img src="/output/TX_counties_current/Hidalgo_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Hidalgo_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Hidalgo_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Hidalgo_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-7. Travis <p>
+6. Travis <p>
 > <img src="/output/TX_counties_current/Travis_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Travis_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+7. Hidalgo <p>
+> <img src="/output/TX_counties_current/Hidalgo_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Hidalgo_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Hidalgo_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Hidalgo_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

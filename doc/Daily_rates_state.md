@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-02, COVID-19 Time Series
+## 2021-01-03, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -157,17 +157,17 @@
 
  <p>&nbsp;</p> 
 
-22. LA <p>
-> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/LA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/LA_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-23. SC <p>
+22. SC <p>
 > <img src="/output/states_current/SC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SC_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/SC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/SC_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. LA <p>
+> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/LA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/LA_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. AR <p>
-> <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/AR_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/AR_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. NV <p>
+30. NV <p>
 > <img src="/output/states_current/NV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NV_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NV_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NV_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. AR <p>
+> <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/AR_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/AR_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
