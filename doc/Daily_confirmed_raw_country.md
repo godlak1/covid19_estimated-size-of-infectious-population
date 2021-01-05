@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-03, COVID-19 Time Series
+## 2021-01-04, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -38,13 +38,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Mexico_newCases.png)  |  ![img](/output/countries_current/Poland_newCases.png)  |  
 
-|  15. Iran  |  16. Ukraine  |  
+|  15. Iran  |  16. South Africa  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/Ukraine_newCases.png)  |  
+|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
 
-|  17. South Africa  |  18. Peru  |  
+|  17. Ukraine  |  18. Peru  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/South Africa_newCases.png)  |  ![img](/output/countries_current/Peru_newCases.png)  |  
+|  ![img](/output/countries_current/Ukraine_newCases.png)  |  ![img](/output/countries_current/Peru_newCases.png)  |  
 
 |  19. Netherlands  |  20. Indonesia  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
-|  31. Morocco  |  32. Israel  |  
+|  31. Israel  |  32. Morocco  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Morocco_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
+|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
 |  33. Sweden  |  34. Portugal  |  
 |  :---   |   :---   |  

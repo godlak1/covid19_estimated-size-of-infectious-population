@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-03, COVID-19 Time Series
+## 2021-01-04, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -34,9 +34,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
-|  13. WI  |  14. IN  |  
+|  13. IN  |  14. WI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
+|  ![img](/output/states_current/IN_newCases.png)  |  ![img](/output/states_current/WI_newCases.png)  |  
 
 |  15. NJ  |  16. MN  |  
 |  :---   |   :---   |  
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. IA  |  30. NV  |  
+|  29. IA  |  30. AR  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
 
-|  31. AR  |  32. KS  |  
+|  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  
@@ -90,17 +90,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
-|  41. WV  |  42. RI  |  
+|  41. RI  |  42. WV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/RI_newCases.png)  |  
+|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/WV_newCases.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/MT_newCases.png)  |  ![img](/output/states_current/DE_newCases.png)  |  
 
-|  45. AK  |  46. NH  |  
+|  45. NH  |  46. AK  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AK_newCases.png)  |  ![img](/output/states_current/NH_newCases.png)  |  
+|  ![img](/output/states_current/NH_newCases.png)  |  ![img](/output/states_current/AK_newCases.png)  |  
 
 |  47. WY  |  48. DC  |  
 |  :---   |   :---   |  

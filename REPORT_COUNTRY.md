@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-03, COVID-19 Time Series
+## 2021-01-04, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -115,17 +115,17 @@
 
  <p>&nbsp;</p> 
 
-16. Ukraine <p>
-> <img src="/output/countries_current/Ukraine_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ukraine_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Ukraine_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Ukraine_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-17. South Africa <p>
+16. South Africa <p>
 > <img src="/output/countries_current/South Africa_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/South Africa_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/South Africa_estInfections.png" width="49.5%"/> <img src="/output/countries_current/South Africa_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+17. Ukraine <p>
+> <img src="/output/countries_current/Ukraine_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ukraine_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Ukraine_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Ukraine_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. Morocco <p>
-> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. Israel <p>
+31. Israel <p>
 > <img src="/output/countries_current/Israel_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Israel_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Israel_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Israel_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Morocco <p>
+> <img src="/output/countries_current/Morocco_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Morocco_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Morocco_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Morocco_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
