@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-04, COVID-19 Time Series
+## 2021-01-05, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -30,17 +30,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/NC_testPositiveRate.png)  |  
 
-|  11. AZ  |  12. MI  |  
+|  11. AZ  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AZ_testPositiveRate.png)  |  ![img](/output/states_current/MI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AZ_testPositiveRate.png)  |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  
 
-|  13. IN  |  14. WI  |  
+|  13. MI  |  14. IN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IN_testPositiveRate.png)  |  ![img](/output/states_current/WI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MI_testPositiveRate.png)  |  ![img](/output/states_current/IN_testPositiveRate.png)  |  
 
-|  15. NJ  |  16. MN  |  
+|  15. WI  |  16. MN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NJ_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WI_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
 |  17. MO  |  18. MA  |  
 |  :---   |   :---   |  
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/ID_testPositiveRate.png)  |  ![img](/output/states_current/OR_testPositiveRate.png)  |  
 
-|  39. SD  |  40. ND  |  
+|  39. SD  |  40. RI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/RI_testPositiveRate.png)  |  
 
-|  41. RI  |  42. WV  |  
+|  41. ND  |  42. WV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/RI_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/ND_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  

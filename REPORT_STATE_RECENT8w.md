@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-04, COVID-19 Time Series
+## 2021-01-05, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -87,31 +87,31 @@
 
  <p>&nbsp;</p> 
 
-12. MI <p>
+12. NJ <p>
+> <img src="/output/states_current/NJ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NJ_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/NJ_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/NJ_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+13. MI <p>
 > <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-13. IN <p>
+14. IN <p>
 > <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/IN_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-14. WI <p>
+15. WI <p>
 > <img src="/output/states_current/WI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/WI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-15. NJ <p>
-> <img src="/output/states_current/NJ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NJ_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/NJ_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/NJ_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -283,17 +283,17 @@
 
  <p>&nbsp;</p> 
 
-40. ND <p>
-> <img src="/output/states_current/ND_newCases7d.png" width="49.5%"/> <img src="/output/states_current/ND_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/ND_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/ND_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-41. RI <p>
+40. RI <p>
 > <img src="/output/states_current/RI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/RI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/RI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/RI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+41. ND <p>
+> <img src="/output/states_current/ND_newCases7d.png" width="49.5%"/> <img src="/output/states_current/ND_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/ND_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/ND_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
