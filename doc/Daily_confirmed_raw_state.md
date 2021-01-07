@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-05, COVID-19 Time Series
+## 2021-01-06, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -50,13 +50,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/VA_newCases.png)  |  
 
-|  21. CO  |  22. SC  |  
+|  21. CO  |  22. LA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_newCases.png)  |  ![img](/output/states_current/SC_newCases.png)  |  
+|  ![img](/output/states_current/CO_newCases.png)  |  ![img](/output/states_current/LA_newCases.png)  |  
 
-|  23. LA  |  24. OK  |  
+|  23. SC  |  24. OK  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/LA_newCases.png)  |  ![img](/output/states_current/OK_newCases.png)  |  
+|  ![img](/output/states_current/SC_newCases.png)  |  ![img](/output/states_current/OK_newCases.png)  |  
 
 |  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
@@ -90,9 +90,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/RI_newCases.png)  |  
 
-|  41. ND  |  42. WV  |  
+|  41. WV  |  42. ND  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/ND_newCases.png)  |  ![img](/output/states_current/WV_newCases.png)  |  
+|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  

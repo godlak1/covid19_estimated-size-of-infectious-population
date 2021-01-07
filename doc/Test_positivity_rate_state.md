@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-05, COVID-19 Time Series
+## 2021-01-06, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -50,13 +50,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/VA_testPositiveRate.png)  |  
 
-|  21. CO  |  22. SC  |  
+|  21. CO  |  22. LA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/LA_testPositiveRate.png)  |  
 
-|  23. LA  |  24. OK  |  
+|  23. SC  |  24. OK  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/LA_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
 |  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
@@ -90,9 +90,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/RI_testPositiveRate.png)  |  
 
-|  41. ND  |  42. WV  |  
+|  41. WV  |  42. ND  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/ND_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WV_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  

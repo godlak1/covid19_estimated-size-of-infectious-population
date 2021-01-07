@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-05, COVID-19 Time Series
+## 2021-01-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. Switzerland <p>
+30. Switzerland <p>
 > <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Switzerland_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Sweden_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -283,17 +283,17 @@
 
  <p>&nbsp;</p> 
 
-40. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-41. Panama <p>
+40. Panama <p>
 > <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Panama_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Panama_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+41. Nepal <p>
+> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

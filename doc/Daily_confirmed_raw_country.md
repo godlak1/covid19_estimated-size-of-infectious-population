@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-05, COVID-19 Time Series
+## 2021-01-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
 
-|  29. Philippines  |  30. Sweden  |  
+|  29. Philippines  |  30. Switzerland  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
+|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
-|  31. Switzerland  |  32. Israel  |  
+|  31. Sweden  |  32. Israel  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
+|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
 |  33. Morocco  |  34. Portugal  |  
 |  :---   |   :---   |  
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Serbia_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
 
-|  39. Jordan  |  40. Nepal  |  
+|  39. Jordan  |  40. Panama  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/Panama_newCases.png)  |  
 
-|  41. Panama  |  42. Japan  |  
+|  41. Nepal  |  42. Japan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
+|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
 
 |  43. Georgia  |  44. Azerbaijan  |  
 |  :---   |   :---   |  
