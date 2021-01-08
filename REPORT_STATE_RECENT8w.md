@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-06, COVID-19 Time Series
+## 2021-01-07, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -157,17 +157,17 @@
 
  <p>&nbsp;</p> 
 
-22. LA <p>
-> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/LA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/LA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-23. SC <p>
+22. SC <p>
 > <img src="/output/states_current/SC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SC_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/SC_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/SC_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. LA <p>
+> <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/LA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/LA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -178,17 +178,17 @@
 
  <p>&nbsp;</p> 
 
-25. MD <p>
-> <img src="/output/states_current/MD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MD_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-26. UT <p>
+25. UT <p>
 > <img src="/output/states_current/UT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/UT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+26. MD <p>
+> <img src="/output/states_current/MD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MD_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

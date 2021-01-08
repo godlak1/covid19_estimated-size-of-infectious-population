@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-06, COVID-19 Time Series
+## 2021-01-07, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -50,17 +50,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AL_testPositiveRate.png)  |  ![img](/output/states_current/VA_testPositiveRate.png)  |  
 
-|  21. CO  |  22. LA  |  
+|  21. CO  |  22. SC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/LA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
 
-|  23. SC  |  24. OK  |  
+|  23. LA  |  24. OK  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
+|  ![img](/output/states_current/LA_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
-|  25. MD  |  26. UT  |  
+|  25. UT  |  26. MD  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MD_testPositiveRate.png)  |  ![img](/output/states_current/UT_testPositiveRate.png)  |  
+|  ![img](/output/states_current/UT_testPositiveRate.png)  |  ![img](/output/states_current/MD_testPositiveRate.png)  |  
 
 |  27. KY  |  28. WA  |  
 |  :---   |   :---   |  
