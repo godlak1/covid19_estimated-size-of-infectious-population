@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-07, COVID-19 Time Series
+## 2021-01-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,9 +42,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
 
-|  17. MO  |  18. MA  |  
+|  17. MA  |  18. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
+|  ![img](/output/states_current/MA_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
 
 |  19. AL  |  20. VA  |  
 |  :---   |   :---   |  
@@ -66,9 +66,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. IA  |  30. AR  |  
+|  29. AR  |  30. IA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/AR_newCases.png)  |  
+|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/IA_newCases.png)  |  
 
 |  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/ID_newCases.png)  |  ![img](/output/states_current/OR_newCases.png)  |  
 
-|  39. SD  |  40. RI  |  
+|  39. SD  |  40. WV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/RI_newCases.png)  |  
+|  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/WV_newCases.png)  |  
 
-|  41. WV  |  42. ND  |  
+|  41. RI  |  42. ND  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
+|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  

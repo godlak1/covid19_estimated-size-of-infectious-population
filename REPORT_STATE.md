@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-07, COVID-19 Time Series
+## 2021-01-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -122,17 +122,17 @@
 
  <p>&nbsp;</p> 
 
-17. MO <p>
-> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MO_estInfections.png" width="49.5%"/> <img src="/output/states_current/MO_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-18. MA <p>
+17. MA <p>
 > <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MA_estInfections.png" width="49.5%"/> <img src="/output/states_current/MA_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+18. MO <p>
+> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MO_estInfections.png" width="49.5%"/> <img src="/output/states_current/MO_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -206,17 +206,17 @@
 
  <p>&nbsp;</p> 
 
-29. IA <p>
-> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/IA_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-30. AR <p>
+29. AR <p>
 > <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AR_estInfections.png" width="49.5%"/> <img src="/output/states_current/AR_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+30. IA <p>
+> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IA_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -283,17 +283,17 @@
 
  <p>&nbsp;</p> 
 
-40. RI <p>
-> <img src="/output/states_current/RI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/RI_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/RI_estInfections.png" width="49.5%"/> <img src="/output/states_current/RI_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-41. WV <p>
+40. WV <p>
 > <img src="/output/states_current/WV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WV_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WV_estInfections.png" width="49.5%"/> <img src="/output/states_current/WV_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+41. RI <p>
+> <img src="/output/states_current/RI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/RI_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/RI_estInfections.png" width="49.5%"/> <img src="/output/states_current/RI_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

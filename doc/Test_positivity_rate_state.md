@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-07, COVID-19 Time Series
+## 2021-01-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,9 +42,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
-|  17. MO  |  18. MA  |  
+|  17. MA  |  18. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MO_testPositiveRate.png)  |  ![img](/output/states_current/MA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MA_testPositiveRate.png)  |  ![img](/output/states_current/MO_testPositiveRate.png)  |  
 
 |  19. AL  |  20. VA  |  
 |  :---   |   :---   |  
@@ -66,9 +66,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
 
-|  29. IA  |  30. AR  |  
+|  29. AR  |  30. IA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/AR_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
 
 |  31. NV  |  32. KS  |  
 |  :---   |   :---   |  
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/ID_testPositiveRate.png)  |  ![img](/output/states_current/OR_testPositiveRate.png)  |  
 
-|  39. SD  |  40. RI  |  
+|  39. SD  |  40. WV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/RI_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
 
-|  41. WV  |  42. ND  |  
+|  41. RI  |  42. ND  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WV_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
+|  ![img](/output/states_current/RI_testPositiveRate.png)  |  ![img](/output/states_current/ND_testPositiveRate.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  

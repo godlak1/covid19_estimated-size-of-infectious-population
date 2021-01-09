@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-07, COVID-19 Time Series
+## 2021-01-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -122,17 +122,17 @@
 
  <p>&nbsp;</p> 
 
-17. MO <p>
-> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MO_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-18. MA <p>
+17. MA <p>
 > <img src="/output/states_current/MA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MA_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MA_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+18. MO <p>
+> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MO_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -206,17 +206,17 @@
 
  <p>&nbsp;</p> 
 
-29. IA <p>
-> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/IA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/IA_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-30. AR <p>
+29. AR <p>
 > <img src="/output/states_current/AR_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AR_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AR_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/AR_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+30. IA <p>
+> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/IA_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -283,17 +283,17 @@
 
  <p>&nbsp;</p> 
 
-40. RI <p>
-> <img src="/output/states_current/RI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/RI_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/RI_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/RI_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-41. WV <p>
+40. WV <p>
 > <img src="/output/states_current/WV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WV_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WV_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/WV_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+41. RI <p>
+> <img src="/output/states_current/RI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/RI_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/RI_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/RI_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
