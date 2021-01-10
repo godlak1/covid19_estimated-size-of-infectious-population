@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-08, COVID-19 Time Series
+## 2021-01-09, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -45,17 +45,17 @@
 
  <p>&nbsp;</p> 
 
-6. Travis <p>
-> <img src="/output/TX_counties_current/Travis_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Travis_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-7. Collin <p>
+6. Collin <p>
 > <img src="/output/TX_counties_current/Collin_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Collin_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Collin_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Collin_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+7. Travis <p>
+> <img src="/output/TX_counties_current/Travis_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Travis_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Travis_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

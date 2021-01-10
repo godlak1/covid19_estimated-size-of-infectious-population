@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-08, COVID-19 Time Series
+## 2021-01-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Philippines_newCases.png)  |  
 
-|  31. Switzerland  |  32. Israel  |  
+|  31. Israel  |  32. Switzerland  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
+|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
 |  33. Portugal  |  34. Morocco  |  
 |  :---   |   :---   |  
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Croatia_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  49. Belarus  |  50. Bulgaria  |  
+|  49. Belarus  |  50. Kazakhstan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Bulgaria_newCases.png)  |  
+|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

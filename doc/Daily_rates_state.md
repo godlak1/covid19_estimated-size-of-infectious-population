@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-08, COVID-19 Time Series
+## 2021-01-09, COVID-19 Time Series
 # States in the U.S. 
 
 

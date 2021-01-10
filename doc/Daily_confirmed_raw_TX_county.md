@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-08, COVID-19 Time Series
+## 2021-01-09, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -18,13 +18,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Tarrant_newCases.png)  |  ![img](/output/TX_counties_current/Bexar_newCases.png)  |  
 
-|  5. El Paso  |  6. Travis  |  
+|  5. El Paso  |  6. Collin  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/El Paso_newCases.png)  |  ![img](/output/TX_counties_current/Travis_newCases.png)  |  
+|  ![img](/output/TX_counties_current/El Paso_newCases.png)  |  ![img](/output/TX_counties_current/Collin_newCases.png)  |  
 
-|  7. Collin  |  8. Hidalgo  |  
+|  7. Travis  |  8. Hidalgo  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Collin_newCases.png)  |  ![img](/output/TX_counties_current/Hidalgo_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Travis_newCases.png)  |  ![img](/output/TX_counties_current/Hidalgo_newCases.png)  |  
 
 |  9. Lubbock  |  10. Denton  |  
 |  :---   |   :---   |  
