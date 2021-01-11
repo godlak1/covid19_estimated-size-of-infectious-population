@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-09, COVID-19 Time Series
+## 2021-01-10, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -164,17 +164,17 @@
 
  <p>&nbsp;</p> 
 
-23. Belgium <p>
-> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-24. Canada <p>
+23. Canada <p>
 > <img src="/output/countries_current/Canada_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Canada_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Canada_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Canada_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+24. Belgium <p>
+> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -206,38 +206,38 @@
 
  <p>&nbsp;</p> 
 
-29. Sweden <p>
-> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-30. Philippines <p>
-> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. Israel <p>
+29. Israel <p>
 > <img src="/output/countries_current/Israel_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Israel_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Israel_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Israel_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-32. Switzerland <p>
-> <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_cnvd_AscertainmentRate.png" width="49.5%"/> 
+30. Sweden <p>
+> <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Switzerland_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-33. Portugal <p>
+31. Philippines <p>
+> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+33. Switzerland <p>
+> <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Switzerland_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

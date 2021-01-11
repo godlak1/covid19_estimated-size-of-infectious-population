@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-09, COVID-19 Time Series
+## 2021-01-10, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -34,9 +34,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
 
-|  13. MI  |  14. IN  |  
+|  13. IN  |  14. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
+|  ![img](/output/states_current/IN_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
 |  15. WI  |  16. MN  |  
 |  :---   |   :---   |  
@@ -58,9 +58,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/LA_newCases.png)  |  ![img](/output/states_current/OK_newCases.png)  |  
 
-|  25. UT  |  26. MD  |  
+|  25. MD  |  26. UT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/UT_newCases.png)  |  ![img](/output/states_current/MD_newCases.png)  |  
+|  ![img](/output/states_current/MD_newCases.png)  |  ![img](/output/states_current/UT_newCases.png)  |  
 
 |  27. KY  |  28. WA  |  
 |  :---   |   :---   |  

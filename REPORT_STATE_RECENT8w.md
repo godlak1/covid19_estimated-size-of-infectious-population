@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-09, COVID-19 Time Series
+## 2021-01-10, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -94,17 +94,17 @@
 
  <p>&nbsp;</p> 
 
-13. MI <p>
-> <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-14. IN <p>
+13. IN <p>
 > <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/IN_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+14. MI <p>
+> <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MI_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -178,17 +178,17 @@
 
  <p>&nbsp;</p> 
 
-25. UT <p>
-> <img src="/output/states_current/UT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/UT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-26. MD <p>
+25. MD <p>
 > <img src="/output/states_current/MD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MD_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MD_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+26. UT <p>
+> <img src="/output/states_current/UT_newCases7d.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/UT_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/UT_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
