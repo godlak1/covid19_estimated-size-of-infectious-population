@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-10, COVID-19 Time Series
+## 2021-01-11, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -94,17 +94,17 @@
 
  <p>&nbsp;</p> 
 
-13. IN <p>
-> <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/IN_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-14. MI <p>
+13. MI <p>
 > <img src="/output/states_current/MI_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MI_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MI_estInfections.png" width="49.5%"/> <img src="/output/states_current/MI_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+14. IN <p>
+> <img src="/output/states_current/IN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IN_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IN_estInfections.png" width="49.5%"/> <img src="/output/states_current/IN_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
