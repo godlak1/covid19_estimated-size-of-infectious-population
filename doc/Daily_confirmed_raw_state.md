@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-11, COVID-19 Time Series
+## 2021-01-12, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,29 +26,29 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/TN_newCases.png)  |  
 
-|  9. GA  |  10. NC  |  
+|  9. GA  |  10. AZ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
+|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
 
-|  11. AZ  |  12. NJ  |  
+|  11. NC  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
+|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
 
-|  13. MI  |  14. IN  |  
+|  13. IN  |  14. MI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MI_newCases.png)  |  ![img](/output/states_current/IN_newCases.png)  |  
+|  ![img](/output/states_current/IN_newCases.png)  |  ![img](/output/states_current/MI_newCases.png)  |  
 
-|  15. WI  |  16. MN  |  
+|  15. WI  |  16. MA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
+|  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
 
-|  17. MA  |  18. MO  |  
+|  17. MN  |  18. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MA_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
+|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
 
-|  19. AL  |  20. VA  |  
+|  19. VA  |  20. AL  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/VA_newCases.png)  |  
+|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
 
 |  21. CO  |  22. SC  |  
 |  :---   |   :---   |  
@@ -66,13 +66,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/KY_newCases.png)  |  ![img](/output/states_current/WA_newCases.png)  |  
 
-|  29. AR  |  30. IA  |  
+|  29. AR  |  30. NV  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/IA_newCases.png)  |  
+|  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
 
-|  31. NV  |  32. KS  |  
+|  31. IA  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NV_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/IA_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

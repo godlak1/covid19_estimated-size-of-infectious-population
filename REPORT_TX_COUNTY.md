@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-11, COVID-19 Time Series
+## 2021-01-12, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -87,24 +87,24 @@
 
  <p>&nbsp;</p> 
 
-12. Nueces <p>
+12. Montgomery <p>
+> <img src="/output/TX_counties_current/Montgomery_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Montgomery_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+13. Nueces <p>
 > <img src="/output/TX_counties_current/Nueces_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Nueces_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-13. Cameron <p>
+14. Cameron <p>
 > <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Cameron_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-14. Montgomery <p>
-> <img src="/output/TX_counties_current/Montgomery_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Montgomery_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

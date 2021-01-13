@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-11, COVID-19 Time Series
+## 2021-01-12, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -157,17 +157,17 @@
 
  <p>&nbsp;</p> 
 
-22. Romania <p>
-> <img src="/output/countries_current/Romania_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Romania_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Romania_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Romania_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-23. Canada <p>
+22. Canada <p>
 > <img src="/output/countries_current/Canada_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Canada_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Canada_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Canada_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. Romania <p>
+> <img src="/output/countries_current/Romania_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Romania_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Romania_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Romania_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -199,38 +199,38 @@
 
  <p>&nbsp;</p> 
 
-28. Pakistan <p>
-> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Pakistan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-29. Israel <p>
+28. Israel <p>
 > <img src="/output/countries_current/Israel_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Israel_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Israel_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Israel_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-30. Philippines <p>
-> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_NewCasesEstConfirmed.png" width="49.5%"/> 
+29. Pakistan <p>
+> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Philippines_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTotalCases.png" width="49.5%"/> 
+> <img src="/output/countries_current/Pakistan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-31. Sweden <p>
+30. Sweden <p>
 > <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Sweden_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-32. Portugal <p>
+31. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Philippines <p>
+> <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Philippines_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -318,17 +318,17 @@
 
  <p>&nbsp;</p> 
 
-45. Azerbaijan <p>
-> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Azerbaijan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-46. Lebanon <p>
+45. Lebanon <p>
 > <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Lebanon_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+46. Azerbaijan <p>
+> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Azerbaijan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -353,10 +353,10 @@
 
  <p>&nbsp;</p> 
 
-50. Kazakhstan <p>
-> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_NewCasesEstConfirmed.png" width="49.5%"/> 
+50. Slovakia <p>
+> <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Kazakhstan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTotalCases.png" width="49.5%"/> 
+> <img src="/output/countries_current/Slovakia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
