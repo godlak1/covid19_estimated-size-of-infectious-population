@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-12, COVID-19 Time Series
+## 2021-01-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -206,17 +206,17 @@
 
  <p>&nbsp;</p> 
 
-29. Pakistan <p>
-> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Pakistan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-30. Sweden <p>
+29. Sweden <p>
 > <img src="/output/countries_current/Sweden_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Sweden_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Sweden_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Sweden_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+30. Pakistan <p>
+> <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Pakistan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -255,17 +255,17 @@
 
  <p>&nbsp;</p> 
 
-36. Saudi Arabia <p>
-> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-37. Serbia <p>
+36. Serbia <p>
 > <img src="/output/countries_current/Serbia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Serbia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Serbia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Serbia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+37. Saudi Arabia <p>
+> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Saudi Arabia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

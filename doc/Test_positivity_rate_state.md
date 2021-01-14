@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-12, COVID-19 Time Series
+## 2021-01-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -86,9 +86,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/ID_testPositiveRate.png)  |  ![img](/output/states_current/OR_testPositiveRate.png)  |  
 
-|  39. SD  |  40. WV  |  
+|  39. WV  |  40. SD  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SD_testPositiveRate.png)  |  ![img](/output/states_current/WV_testPositiveRate.png)  |  
+|  ![img](/output/states_current/WV_testPositiveRate.png)  |  ![img](/output/states_current/SD_testPositiveRate.png)  |  
 
 |  41. RI  |  42. ND  |  
 |  :---   |   :---   |  

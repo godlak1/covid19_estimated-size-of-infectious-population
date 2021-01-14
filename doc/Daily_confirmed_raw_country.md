@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-12, COVID-19 Time Series
+## 2021-01-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -66,9 +66,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
 
-|  29. Pakistan  |  30. Sweden  |  
+|  29. Sweden  |  30. Pakistan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Pakistan_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
+|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
 
 |  31. Portugal  |  32. Philippines  |  
 |  :---   |   :---   |  
@@ -78,13 +78,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
-|  35. Austria  |  36. Saudi Arabia  |  
+|  35. Austria  |  36. Serbia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
+|  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  37. Serbia  |  38. Hungary  |  
+|  37. Saudi Arabia  |  38. Hungary  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Serbia_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
+|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
 
 |  39. Jordan  |  40. Japan  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-12, COVID-19 Time Series
+## 2021-01-13, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -276,17 +276,17 @@
 
  <p>&nbsp;</p> 
 
-39. SD <p>
-> <img src="/output/states_current/SD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SD_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/SD_estInfections.png" width="49.5%"/> <img src="/output/states_current/SD_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-40. WV <p>
+39. WV <p>
 > <img src="/output/states_current/WV_newCases7d.png" width="49.5%"/> <img src="/output/states_current/WV_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/WV_estInfections.png" width="49.5%"/> <img src="/output/states_current/WV_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+40. SD <p>
+> <img src="/output/states_current/SD_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SD_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/SD_estInfections.png" width="49.5%"/> <img src="/output/states_current/SD_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-12, COVID-19 Time Series
+## 2021-01-13, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -66,17 +66,17 @@
 
  <p>&nbsp;</p> 
 
-9. Lubbock <p>
-> <img src="/output/TX_counties_current/Lubbock_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Lubbock_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-10. Denton <p>
+9. Denton <p>
 > <img src="/output/TX_counties_current/Denton_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Denton_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Denton_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Denton_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+10. Lubbock <p>
+> <img src="/output/TX_counties_current/Lubbock_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Lubbock_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
