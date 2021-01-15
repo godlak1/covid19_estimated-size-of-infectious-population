@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-13, COVID-19 Time Series
+## 2021-01-14, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -73,17 +73,17 @@
 
  <p>&nbsp;</p> 
 
-10. AZ <p>
-> <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/AZ_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/AZ_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-11. NC <p>
+10. NC <p>
 > <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NC_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+11. AZ <p>
+> <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/AZ_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/AZ_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -150,17 +150,17 @@
 
  <p>&nbsp;</p> 
 
-21. CO <p>
-> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/CO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/CO_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-22. SC <p>
+21. SC <p>
 > <img src="/output/states_current/SC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SC_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/SC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/SC_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+22. CO <p>
+> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/CO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/CO_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

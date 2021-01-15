@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-13, COVID-19 Time Series
+## 2021-01-14, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/TN_newCases.png)  |  
 
-|  9. GA  |  10. AZ  |  
+|  9. GA  |  10. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
+|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
 
-|  11. NC  |  12. NJ  |  
+|  11. AZ  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
+|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
 
 |  13. IN  |  14. MI  |  
 |  :---   |   :---   |  
@@ -50,9 +50,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
 
-|  21. CO  |  22. SC  |  
+|  21. SC  |  22. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_newCases.png)  |  ![img](/output/states_current/SC_newCases.png)  |  
+|  ![img](/output/states_current/SC_newCases.png)  |  ![img](/output/states_current/CO_newCases.png)  |  
 
 |  23. LA  |  24. OK  |  
 |  :---   |   :---   |  

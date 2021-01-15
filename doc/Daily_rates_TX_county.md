@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-13, COVID-19 Time Series
+## 2021-01-14, COVID-19 Time Series
 # TX counties (top 15)  
 
 
@@ -87,31 +87,31 @@
 
  <p>&nbsp;</p> 
 
-12. Montgomery <p>
+12. Webb <p>
+> <img src="/output/TX_counties_current/Webb_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Webb_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+13. Montgomery <p>
 > <img src="/output/TX_counties_current/Montgomery_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Montgomery_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-13. Nueces <p>
+14. Nueces <p>
 > <img src="/output/TX_counties_current/Nueces_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Nueces_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-14. Cameron <p>
+15. Cameron <p>
 > <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Cameron_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-15. Webb <p>
-> <img src="/output/TX_counties_current/Webb_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Webb_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

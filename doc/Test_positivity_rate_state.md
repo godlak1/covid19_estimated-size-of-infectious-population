@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-13, COVID-19 Time Series
+## 2021-01-14, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/TN_testPositiveRate.png)  |  
 
-|  9. GA  |  10. AZ  |  
+|  9. GA  |  10. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/AZ_testPositiveRate.png)  |  
+|  ![img](/output/states_current/GA_testPositiveRate.png)  |  ![img](/output/states_current/NC_testPositiveRate.png)  |  
 
-|  11. NC  |  12. NJ  |  
+|  11. AZ  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_testPositiveRate.png)  |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AZ_testPositiveRate.png)  |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  
 
 |  13. IN  |  14. MI  |  
 |  :---   |   :---   |  
@@ -50,9 +50,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
 
-|  21. CO  |  22. SC  |  
+|  21. SC  |  22. CO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/CO_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/CO_testPositiveRate.png)  |  
 
 |  23. LA  |  24. OK  |  
 |  :---   |   :---   |  
