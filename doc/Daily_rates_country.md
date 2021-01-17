@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-15, COVID-19 Time Series
+## 2021-01-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -108,17 +108,17 @@
 
  <p>&nbsp;</p> 
 
-15. Iran <p>
-> <img src="/output/countries_current/Iran_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iran_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Iran_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iran_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-16. South Africa <p>
+15. South Africa <p>
 > <img src="/output/countries_current/South Africa_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/South Africa_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/South Africa_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/South Africa_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+16. Iran <p>
+> <img src="/output/countries_current/Iran_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iran_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Iran_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Iran_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -311,17 +311,17 @@
 
  <p>&nbsp;</p> 
 
-44. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-45. Lebanon <p>
+44. Lebanon <p>
 > <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Lebanon_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+45. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Georgia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-15, COVID-19 Time Series
+## 2021-01-16, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -38,9 +38,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Mexico_newCases.png)  |  ![img](/output/countries_current/Poland_newCases.png)  |  
 
-|  15. Iran  |  16. South Africa  |  
+|  15. South Africa  |  16. Iran  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
+|  ![img](/output/countries_current/South Africa_newCases.png)  |  ![img](/output/countries_current/Iran_newCases.png)  |  
 
 |  17. Ukraine  |  18. Peru  |  
 |  :---   |   :---   |  
@@ -94,13 +94,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
-|  43. United Arab Emirates  |  44. Georgia  |  
+|  43. United Arab Emirates  |  44. Lebanon  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  45. Lebanon  |  46. Ecuador  |  
+|  45. Georgia  |  46. Ecuador  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
+|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
 |  47. Azerbaijan  |  48. Croatia  |  
 |  :---   |   :---   |  

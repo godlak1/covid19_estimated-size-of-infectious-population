@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-15, COVID-19 Time Series
+## 2021-01-16, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. KS <p>
-> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/KS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/KS_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. IA <p>
+31. IA <p>
 > <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/IA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/IA_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. KS <p>
+> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/KS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/KS_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
