@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-14, COVID-19 Time Series
+## 2021-01-15, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -58,21 +58,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/LA_testPositiveRate.png)  |  ![img](/output/states_current/OK_testPositiveRate.png)  |  
 
-|  25. MD  |  26. UT  |  
+|  25. KY  |  26. MD  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MD_testPositiveRate.png)  |  ![img](/output/states_current/UT_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/MD_testPositiveRate.png)  |  
 
-|  27. KY  |  28. WA  |  
+|  27. UT  |  28. WA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KY_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/UT_testPositiveRate.png)  |  ![img](/output/states_current/WA_testPositiveRate.png)  |  
 
 |  29. AR  |  30. NV  |  
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. IA  |  32. KS  |  
+|  31. KS  |  32. IA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
 
 |  33. MS  |  34. CT  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-14, COVID-19 Time Series
+## 2021-01-15, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -62,13 +62,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Chile_newCases.png)  |  ![img](/output/countries_current/Iraq_newCases.png)  |  
 
-|  27. Israel  |  28. Bangladesh  |  
+|  27. Israel  |  28. Portugal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  
+|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
-|  29. Sweden  |  30. Portugal  |  
+|  29. Bangladesh  |  30. Sweden  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
+|  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Sweden_newCases.png)  |  
 
 |  31. Pakistan  |  32. Philippines  |  
 |  :---   |   :---   |  
@@ -86,25 +86,25 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
 
-|  39. Jordan  |  40. Japan  |  
+|  39. Japan  |  40. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
 |  41. Panama  |  42. Nepal  |  
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
-|  43. Georgia  |  44. United Arab Emirates  |  
+|  43. United Arab Emirates  |  44. Georgia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
-|  45. Lebanon  |  46. Azerbaijan  |  
+|  45. Lebanon  |  46. Ecuador  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
+|  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
-|  47. Ecuador  |  48. Croatia  |  
+|  47. Azerbaijan  |  48. Croatia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
 |  49. Belarus  |  50. Slovakia  |  
 |  :---   |   :---   |  
