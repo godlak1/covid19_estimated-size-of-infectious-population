@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-16, COVID-19 Time Series
+## 2021-01-17, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
-|  47. Azerbaijan  |  48. Croatia  |  
+|  47. Azerbaijan  |  48. Belarus  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
-|  49. Belarus  |  50. Slovakia  |  
+|  49. Croatia  |  50. Slovakia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
+|  ![img](/output/countries_current/Croatia_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

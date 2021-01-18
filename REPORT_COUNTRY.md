@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-16, COVID-19 Time Series
+## 2021-01-17, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -339,17 +339,17 @@
 
  <p>&nbsp;</p> 
 
-48. Croatia <p>
-> <img src="/output/countries_current/Croatia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Croatia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Croatia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Croatia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-49. Belarus <p>
+48. Belarus <p>
 > <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Belarus_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belarus_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+49. Croatia <p>
+> <img src="/output/countries_current/Croatia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Croatia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Croatia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Croatia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

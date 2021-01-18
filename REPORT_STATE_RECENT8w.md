@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-16, COVID-19 Time Series
+## 2021-01-17, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -129,17 +129,17 @@
 
  <p>&nbsp;</p> 
 
-18. MO <p>
-> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MO_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MO_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-19. VA <p>
+18. VA <p>
 > <img src="/output/states_current/VA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/VA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/VA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/VA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+19. MO <p>
+> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MO_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MO_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
