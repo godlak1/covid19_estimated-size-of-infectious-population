@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-18, COVID-19 Time Series
+## 2021-01-19, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -34,9 +34,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
 
-|  13. Nueces  |  14. Montgomery  |  
+|  13. Montgomery  |  14. Nueces  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  
 
 |  15. Cameron  |  16. NA  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-18, COVID-19 Time Series
+## 2021-01-19, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,9 +42,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
 
-|  17. MN  |  18. VA  |  
+|  17. VA  |  18. MN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/VA_newCases.png)  |  
+|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
 
 |  19. MO  |  20. AL  |  
 |  :---   |   :---   |  
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/ID_newCases.png)  |  ![img](/output/states_current/OR_newCases.png)  |  
 
-|  39. WV  |  40. SD  |  
+|  39. WV  |  40. RI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/SD_newCases.png)  |  
+|  ![img](/output/states_current/WV_newCases.png)  |  ![img](/output/states_current/RI_newCases.png)  |  
 
-|  41. RI  |  42. ND  |  
+|  41. SD  |  42. ND  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/RI_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
+|  ![img](/output/states_current/SD_newCases.png)  |  ![img](/output/states_current/ND_newCases.png)  |  
 
 |  43. MT  |  44. DE  |  
 |  :---   |   :---   |  
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/NH_newCases.png)  |  ![img](/output/states_current/AK_newCases.png)  |  
 
-|  47. WY  |  48. DC  |  
+|  47. WY  |  48. ME  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/WY_newCases.png)  |  ![img](/output/states_current/DC_newCases.png)  |  
+|  ![img](/output/states_current/WY_newCases.png)  |  ![img](/output/states_current/ME_newCases.png)  |  
 
-|  49. ME  |  50. HI  |  
+|  49. DC  |  50. HI  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/ME_newCases.png)  |  ![img](/output/states_current/HI_newCases.png)  |  
+|  ![img](/output/states_current/DC_newCases.png)  |  ![img](/output/states_current/HI_newCases.png)  |  
 
 |  51. VT  |  52. NA  |  
 |  :---   |   :---   |  
