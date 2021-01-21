@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-19, COVID-19 Time Series
+## 2021-01-20, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -22,17 +22,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/IL_newCases.png)  |  ![img](/output/states_current/OH_newCases.png)  |  
 
-|  7. PA  |  8. TN  |  
+|  7. PA  |  8. GA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/TN_newCases.png)  |  
+|  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
 
-|  9. GA  |  10. AZ  |  
+|  9. TN  |  10. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
+|  ![img](/output/states_current/TN_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
 
-|  11. NC  |  12. NJ  |  
+|  11. AZ  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
+|  ![img](/output/states_current/AZ_newCases.png)  |  ![img](/output/states_current/NJ_newCases.png)  |  
 
 |  13. IN  |  14. MI  |  
 |  :---   |   :---   |  

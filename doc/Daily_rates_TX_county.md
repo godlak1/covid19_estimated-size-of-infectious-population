@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-19, COVID-19 Time Series
+## 2021-01-20, COVID-19 Time Series
 # TX counties (top 15)  
 
 
@@ -73,17 +73,17 @@
 
  <p>&nbsp;</p> 
 
-10. Lubbock <p>
-> <img src="/output/TX_counties_current/Lubbock_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Lubbock_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-11. Fort Bend <p>
+10. Fort Bend <p>
 > <img src="/output/TX_counties_current/Fort Bend_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Fort Bend_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Fort Bend_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+11. Lubbock <p>
+> <img src="/output/TX_counties_current/Lubbock_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Lubbock_estCumIncidence.png" width="49.5%"/> <img src="/output/TX_counties_current/Lubbock_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

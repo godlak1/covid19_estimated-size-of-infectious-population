@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-19, COVID-19 Time Series
+## 2021-01-20, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -22,13 +22,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Kingdom_newCases.png)  |  ![img](/output/countries_current/France_newCases.png)  |  
 
-|  7. Italy  |  8. Turkey  |  
+|  7. Italy  |  8. Spain  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Italy_newCases.png)  |  ![img](/output/countries_current/Turkey_newCases.png)  |  
+|  ![img](/output/countries_current/Italy_newCases.png)  |  ![img](/output/countries_current/Spain_newCases.png)  |  
 
-|  9. Spain  |  10. Germany  |  
+|  9. Turkey  |  10. Germany  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Spain_newCases.png)  |  ![img](/output/countries_current/Germany_newCases.png)  |  
+|  ![img](/output/countries_current/Turkey_newCases.png)  |  ![img](/output/countries_current/Germany_newCases.png)  |  
 
 |  11. Colombia  |  12. Argentina  |  
 |  :---   |   :---   |  
@@ -102,13 +102,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
-|  47. Belarus  |  48. Azerbaijan  |  
+|  47. Belarus  |  48. Slovakia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
+|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
 
-|  49. Slovakia  |  50. Croatia  |  
+|  49. Azerbaijan  |  50. Croatia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Slovakia_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

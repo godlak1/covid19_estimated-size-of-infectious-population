@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-19, COVID-19 Time Series
+## 2021-01-20, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Travis_newCases.png)  |  ![img](/output/TX_counties_current/Hidalgo_newCases.png)  |  
 
-|  9. Denton  |  10. Lubbock  |  
+|  9. Denton  |  10. Fort Bend  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Denton_newCases.png)  |  ![img](/output/TX_counties_current/Lubbock_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Denton_newCases.png)  |  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  
 
-|  11. Fort Bend  |  12. Webb  |  
+|  11. Lubbock  |  12. Webb  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Lubbock_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
 
 |  13. Montgomery  |  14. Nueces  |  
 |  :---   |   :---   |  

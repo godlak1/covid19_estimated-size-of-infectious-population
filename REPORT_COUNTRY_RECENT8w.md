@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-19, COVID-19 Time Series
+## 2021-01-20, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -59,17 +59,17 @@
 
  <p>&nbsp;</p> 
 
-8. Turkey <p>
-> <img src="/output/countries_current/Turkey_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Turkey_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Turkey_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Turkey_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-9. Spain <p>
+8. Spain <p>
 > <img src="/output/countries_current/Spain_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Spain_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Spain_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Spain_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+9. Turkey <p>
+> <img src="/output/countries_current/Turkey_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Turkey_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Turkey_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Turkey_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -339,17 +339,17 @@
 
  <p>&nbsp;</p> 
 
-48. Azerbaijan <p>
-> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Azerbaijan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-49. Slovakia <p>
+48. Slovakia <p>
 > <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Slovakia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+49. Azerbaijan <p>
+> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Azerbaijan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
