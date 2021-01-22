@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-20, COVID-19 Time Series
+## 2021-01-21, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,13 +26,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_testPositiveRate.png)  |  ![img](/output/states_current/GA_testPositiveRate.png)  |  
 
-|  9. TN  |  10. NC  |  
+|  9. AZ  |  10. NC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/TN_testPositiveRate.png)  |  ![img](/output/states_current/NC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/AZ_testPositiveRate.png)  |  ![img](/output/states_current/NC_testPositiveRate.png)  |  
 
-|  11. AZ  |  12. NJ  |  
+|  11. TN  |  12. NJ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AZ_testPositiveRate.png)  |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  
+|  ![img](/output/states_current/TN_testPositiveRate.png)  |  ![img](/output/states_current/NJ_testPositiveRate.png)  |  
 
 |  13. IN  |  14. MI  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-20, COVID-19 Time Series
+## 2021-01-21, COVID-19 Time Series
 # TX counties (top 15)  
 
 

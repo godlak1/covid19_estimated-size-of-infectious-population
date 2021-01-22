@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-20, COVID-19 Time Series
+## 2021-01-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -22,9 +22,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Kingdom_newCases.png)  |  ![img](/output/countries_current/France_newCases.png)  |  
 
-|  7. Italy  |  8. Spain  |  
+|  7. Spain  |  8. Italy  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Italy_newCases.png)  |  ![img](/output/countries_current/Spain_newCases.png)  |  
+|  ![img](/output/countries_current/Spain_newCases.png)  |  ![img](/output/countries_current/Italy_newCases.png)  |  
 
 |  9. Turkey  |  10. Germany  |  
 |  :---   |   :---   |  
@@ -90,13 +90,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
-|  41. Panama  |  42. Nepal  |  
+|  41. Panama  |  42. Lebanon  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  43. Lebanon  |  44. United Arab Emirates  |  
+|  43. Nepal  |  44. United Arab Emirates  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
+|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
 
 |  45. Georgia  |  46. Ecuador  |  
 |  :---   |   :---   |  

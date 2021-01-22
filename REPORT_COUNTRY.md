@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-20, COVID-19 Time Series
+## 2021-01-21, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -52,17 +52,17 @@
 
  <p>&nbsp;</p> 
 
-7. Italy <p>
-> <img src="/output/countries_current/Italy_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Italy_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Italy_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Italy_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-8. Spain <p>
+7. Spain <p>
 > <img src="/output/countries_current/Spain_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Spain_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Spain_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Spain_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+8. Italy <p>
+> <img src="/output/countries_current/Italy_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Italy_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Italy_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Italy_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. Lebanon <p>
+42. Lebanon <p>
 > <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Lebanon_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. Nepal <p>
+> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
