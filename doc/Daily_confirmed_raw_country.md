@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-21, COVID-19 Time Series
+## 2021-01-22, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -54,13 +54,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Czechia_newCases.png)  |  ![img](/output/countries_current/Canada_newCases.png)  |  
 
-|  23. Romania  |  24. Belgium  |  
+|  23. Romania  |  24. Chile  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Romania_newCases.png)  |  ![img](/output/countries_current/Belgium_newCases.png)  |  
+|  ![img](/output/countries_current/Romania_newCases.png)  |  ![img](/output/countries_current/Chile_newCases.png)  |  
 
-|  25. Chile  |  26. Iraq  |  
+|  25. Belgium  |  26. Iraq  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Chile_newCases.png)  |  ![img](/output/countries_current/Iraq_newCases.png)  |  
+|  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Iraq_newCases.png)  |  
 
 |  27. Portugal  |  28. Israel  |  
 |  :---   |   :---   |  
@@ -82,21 +82,21 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  37. Saudi Arabia  |  38. Hungary  |  
+|  37. Saudi Arabia  |  38. Japan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
+|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
 
-|  39. Japan  |  40. Jordan  |  
+|  39. Hungary  |  40. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
 |  41. Panama  |  42. Lebanon  |  
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  43. Nepal  |  44. United Arab Emirates  |  
+|  43. United Arab Emirates  |  44. Nepal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
 |  45. Georgia  |  46. Ecuador  |  
 |  :---   |   :---   |  

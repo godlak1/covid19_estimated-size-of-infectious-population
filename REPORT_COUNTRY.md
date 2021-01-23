@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-21, COVID-19 Time Series
+## 2021-01-22, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -171,17 +171,17 @@
 
  <p>&nbsp;</p> 
 
-24. Belgium <p>
-> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belgium_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-25. Chile <p>
+24. Chile <p>
 > <img src="/output/countries_current/Chile_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Chile_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Chile_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Chile_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+25. Belgium <p>
+> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belgium_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -269,17 +269,17 @@
 
  <p>&nbsp;</p> 
 
-38. Hungary <p>
-> <img src="/output/countries_current/Hungary_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Hungary_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Hungary_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Hungary_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-39. Japan <p>
+38. Japan <p>
 > <img src="/output/countries_current/Japan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Japan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Japan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Japan_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+39. Hungary <p>
+> <img src="/output/countries_current/Hungary_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Hungary_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Hungary_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Hungary_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -304,17 +304,17 @@
 
  <p>&nbsp;</p> 
 
-43. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-44. United Arab Emirates <p>
+43. United Arab Emirates <p>
 > <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Arab Emirates_estInfections.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+44. Nepal <p>
+> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Nepal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

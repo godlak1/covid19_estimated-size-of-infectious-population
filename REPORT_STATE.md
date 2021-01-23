@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-21, COVID-19 Time Series
+## 2021-01-22, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -59,17 +59,17 @@
 
  <p>&nbsp;</p> 
 
-8. GA <p>
-> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-9. AZ <p>
+8. AZ <p>
 > <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AZ_estInfections.png" width="49.5%"/> <img src="/output/states_current/AZ_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+9. GA <p>
+> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
