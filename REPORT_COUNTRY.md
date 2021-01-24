@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-22, COVID-19 Time Series
+## 2021-01-23, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -185,17 +185,17 @@
 
  <p>&nbsp;</p> 
 
-26. Iraq <p>
-> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Iraq_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Iraq_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-27. Portugal <p>
+26. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+27. Iraq <p>
+> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Iraq_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Iraq_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -213,17 +213,17 @@
 
  <p>&nbsp;</p> 
 
-30. Bangladesh <p>
-> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bangladesh_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-31. Pakistan <p>
+30. Pakistan <p>
 > <img src="/output/countries_current/Pakistan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Pakistan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Pakistan_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+31. Bangladesh <p>
+> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bangladesh_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

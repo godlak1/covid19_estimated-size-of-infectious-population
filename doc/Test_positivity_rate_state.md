@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-22, COVID-19 Time Series
+## 2021-01-23, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -70,13 +70,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. KS  |  32. IA  |  
+|  31. KS  |  32. MS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/IA_testPositiveRate.png)  |  
+|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/MS_testPositiveRate.png)  |  
 
-|  33. MS  |  34. CT  |  
+|  33. IA  |  34. CT  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MS_testPositiveRate.png)  |  ![img](/output/states_current/CT_testPositiveRate.png)  |  
+|  ![img](/output/states_current/IA_testPositiveRate.png)  |  ![img](/output/states_current/CT_testPositiveRate.png)  |  
 
 |  35. NE  |  36. NM  |  
 |  :---   |   :---   |  

@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-22, COVID-19 Time Series
+## 2021-01-23, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -227,17 +227,17 @@
 
  <p>&nbsp;</p> 
 
-32. IA <p>
-> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/IA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-33. MS <p>
+32. MS <p>
 > <img src="/output/states_current/MS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MS_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+33. IA <p>
+> <img src="/output/states_current/IA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/IA_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/IA_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
