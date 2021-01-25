@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-23, COVID-19 Time Series
+## 2021-01-24, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -26,9 +26,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
 
-|  9. GA  |  10. NC  |  
+|  9. NC  |  10. GA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/GA_newCases.png)  |  ![img](/output/states_current/NC_newCases.png)  |  
+|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
 
 |  11. TN  |  12. NJ  |  
 |  :---   |   :---   |  

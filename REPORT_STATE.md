@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-23, COVID-19 Time Series
+## 2021-01-24, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,17 +66,17 @@
 
  <p>&nbsp;</p> 
 
-9. GA <p>
-> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-10. NC <p>
+9. NC <p>
 > <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NC_estInfections.png" width="49.5%"/> <img src="/output/states_current/NC_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+10. GA <p>
+> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
