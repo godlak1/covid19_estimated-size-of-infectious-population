@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-24, COVID-19 Time Series
+## 2021-01-25, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -108,10 +108,10 @@
 
  <p>&nbsp;</p> 
 
-15. Cameron <p>
-> <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+15. Williamson <p>
+> <img src="/output/TX_counties_current/Williamson_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Williamson_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/TX_counties_current/Cameron_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+> <img src="/output/TX_counties_current/Williamson_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Williamson_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

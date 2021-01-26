@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-24, COVID-19 Time Series
+## 2021-01-25, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -82,9 +82,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  37. Saudi Arabia  |  38. Japan  |  
+|  37. Japan  |  38. Saudi Arabia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Japan_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
 
 |  39. Hungary  |  40. Jordan  |  
 |  :---   |   :---   |  
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
 
-|  49. Azerbaijan  |  50. Croatia  |  
+|  49. Croatia  |  50. Azerbaijan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
+|  ![img](/output/countries_current/Croatia_newCases.png)  |  ![img](/output/countries_current/Azerbaijan_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
