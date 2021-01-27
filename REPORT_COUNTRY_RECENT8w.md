@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-25, COVID-19 Time Series
+## 2021-01-26, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -192,17 +192,17 @@
 
  <p>&nbsp;</p> 
 
-27. Iraq <p>
-> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Iraq_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Iraq_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-28. Israel <p>
+27. Israel <p>
 > <img src="/output/countries_current/Israel_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Israel_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Israel_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Israel_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+28. Iraq <p>
+> <img src="/output/countries_current/Iraq_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iraq_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Iraq_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Iraq_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

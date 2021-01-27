@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-25, COVID-19 Time Series
+## 2021-01-26, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,17 +66,17 @@
 
  <p>&nbsp;</p> 
 
-9. NC <p>
-> <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/NC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NC_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-10. GA <p>
+9. GA <p>
 > <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/GA_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/GA_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+10. NC <p>
+> <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/NC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/NC_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

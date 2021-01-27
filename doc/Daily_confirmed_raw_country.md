@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-25, COVID-19 Time Series
+## 2021-01-26, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -62,9 +62,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
 
-|  27. Iraq  |  28. Israel  |  
+|  27. Israel  |  28. Iraq  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Iraq_newCases.png)  |  ![img](/output/countries_current/Israel_newCases.png)  |  
+|  ![img](/output/countries_current/Israel_newCases.png)  |  ![img](/output/countries_current/Iraq_newCases.png)  |  
 
 |  29. Sweden  |  30. Pakistan  |  
 |  :---   |   :---   |  
