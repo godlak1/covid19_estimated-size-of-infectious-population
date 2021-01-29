@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-27, COVID-19 Time Series
+## 2021-01-28, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Slovakia_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
-|  49. Croatia  |  50. Kazakhstan  |  
+|  49. Kazakhstan  |  50. Croatia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Croatia_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
+|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Croatia_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    
