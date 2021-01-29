@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-26, COVID-19 Time Series
+## 2021-01-27, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -332,17 +332,17 @@
 
  <p>&nbsp;</p> 
 
-47. Belarus <p>
-> <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belarus_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Slovakia <p>
+47. Slovakia <p>
 > <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Slovakia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Belarus <p>
+> <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belarus_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -353,10 +353,10 @@
 
  <p>&nbsp;</p> 
 
-50. Azerbaijan <p>
-> <img src="/output/countries_current/Azerbaijan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+50. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Azerbaijan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Azerbaijan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+> <img src="/output/countries_current/Kazakhstan_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

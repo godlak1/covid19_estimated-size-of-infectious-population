@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-26, COVID-19 Time Series
+## 2021-01-27, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -30,15 +30,15 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Denton_newCases.png)  |  ![img](/output/TX_counties_current/Fort Bend_newCases.png)  |  
 
-|  11. Lubbock  |  12. Webb  |  
+|  11. Lubbock  |  12. Montgomery  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Lubbock_newCases.png)  |  ![img](/output/TX_counties_current/Webb_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Lubbock_newCases.png)  |  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  
 
-|  13. Montgomery  |  14. Nueces  |  
+|  13. Webb  |  14. Williamson  |  
 |  :---   |   :---   |  
-|  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  ![img](/output/TX_counties_current/Nueces_newCases.png)  |  
+|  ![img](/output/TX_counties_current/Webb_newCases.png)  |  ![img](/output/TX_counties_current/Williamson_newCases.png)  |  
 
-|  15. Williamson  |  16. NA  |  
+|  15. Nueces  |  16. NA  |  
 |  :---   |   :---   |  
-|  <img src="/output/TX_counties_current/Williamson_newCases.png" width="49.5%"/> |   NA  |  
+|  <img src="/output/TX_counties_current/Nueces_newCases.png" width="49.5%"/> |   NA  |  
 

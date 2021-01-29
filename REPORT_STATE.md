@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-26, COVID-19 Time Series
+## 2021-01-27, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -66,17 +66,17 @@
 
  <p>&nbsp;</p> 
 
-9. GA <p>
-> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-10. NC <p>
+9. NC <p>
 > <img src="/output/states_current/NC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/NC_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/NC_estInfections.png" width="49.5%"/> <img src="/output/states_current/NC_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+10. GA <p>
+> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -157,17 +157,17 @@
 
  <p>&nbsp;</p> 
 
-22. CO <p>
-> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/CO_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-23. LA <p>
+22. LA <p>
 > <img src="/output/states_current/LA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/LA_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/LA_estInfections.png" width="49.5%"/> <img src="/output/states_current/LA_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+23. CO <p>
+> <img src="/output/states_current/CO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/CO_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/CO_estInfections.png" width="49.5%"/> <img src="/output/states_current/CO_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
