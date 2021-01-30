@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-28, COVID-19 Time Series
+## 2021-01-29, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -31,17 +31,17 @@
 
  <p>&nbsp;</p> 
 
-4. Russia <p>
-> <img src="/output/countries_current/Russia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Russia_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Russia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Russia_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-5. United Kingdom <p>
+4. United Kingdom <p>
 > <img src="/output/countries_current/United Kingdom_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Kingdom_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Kingdom_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Kingdom_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+5. Russia <p>
+> <img src="/output/countries_current/Russia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Russia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Russia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Russia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -143,17 +143,17 @@
 
  <p>&nbsp;</p> 
 
-20. Netherlands <p>
-> <img src="/output/countries_current/Netherlands_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Netherlands_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-21. Czechia <p>
+20. Czechia <p>
 > <img src="/output/countries_current/Czechia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Czechia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Czechia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Czechia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+21. Netherlands <p>
+> <img src="/output/countries_current/Netherlands_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Netherlands_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Netherlands_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. Lebanon <p>
-> <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Lebanon_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. United Arab Emirates <p>
+42. United Arab Emirates <p>
 > <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. Lebanon <p>
+> <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Lebanon_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
