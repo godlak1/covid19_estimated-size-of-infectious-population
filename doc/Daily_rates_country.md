@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-29, COVID-19 Time Series
+## 2021-01-30, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -178,17 +178,17 @@
 
  <p>&nbsp;</p> 
 
-25. Belgium <p>
-> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-26. Portugal <p>
+25. Portugal <p>
 > <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Portugal_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+26. Belgium <p>
+> <img src="/output/countries_current/Belgium_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belgium_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belgium_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belgium_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

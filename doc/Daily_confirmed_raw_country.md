@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-29, COVID-19 Time Series
+## 2021-01-30, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -58,9 +58,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Romania_newCases.png)  |  ![img](/output/countries_current/Chile_newCases.png)  |  
 
-|  25. Belgium  |  26. Portugal  |  
+|  25. Portugal  |  26. Belgium  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belgium_newCases.png)  |  ![img](/output/countries_current/Portugal_newCases.png)  |  
+|  ![img](/output/countries_current/Portugal_newCases.png)  |  ![img](/output/countries_current/Belgium_newCases.png)  |  
 
 |  27. Israel  |  28. Iraq  |  
 |  :---   |   :---   |  
