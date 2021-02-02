@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-31, COVID-19 Time Series
+## 2021-02-01, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -108,10 +108,10 @@
 
  <p>&nbsp;</p> 
 
-15. Cameron <p>
-> <img src="/output/TX_counties_current/Cameron_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_NewCasesEstConfirmed.png" width="49.5%"/> 
+15. Nueces <p>
+> <img src="/output/TX_counties_current/Nueces_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/TX_counties_current/Cameron_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Cameron_estTotalCases.png" width="49.5%"/> 
+> <img src="/output/TX_counties_current/Nueces_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Nueces_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

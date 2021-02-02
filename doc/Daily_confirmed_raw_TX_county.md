@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-31, COVID-19 Time Series
+## 2021-02-01, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -38,7 +38,7 @@
 |  :---   |   :---   |  
 |  ![img](/output/TX_counties_current/Montgomery_newCases.png)  |  ![img](/output/TX_counties_current/Williamson_newCases.png)  |  
 
-|  15. Cameron  |  16. NA  |  
+|  15. Nueces  |  16. NA  |  
 |  :---   |   :---   |  
-|  <img src="/output/TX_counties_current/Cameron_newCases.png" width="49.5%"/> |   NA  |  
+|  <img src="/output/TX_counties_current/Nueces_newCases.png" width="49.5%"/> |   NA  |  
 

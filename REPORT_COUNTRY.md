@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-31, COVID-19 Time Series
+## 2021-02-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -164,17 +164,17 @@
 
  <p>&nbsp;</p> 
 
-23. Romania <p>
-> <img src="/output/countries_current/Romania_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Romania_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Romania_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Romania_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-24. Chile <p>
+23. Chile <p>
 > <img src="/output/countries_current/Chile_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Chile_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Chile_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Chile_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+24. Romania <p>
+> <img src="/output/countries_current/Romania_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Romania_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Romania_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Romania_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -269,17 +269,17 @@
 
  <p>&nbsp;</p> 
 
-38. Saudi Arabia <p>
-> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Saudi Arabia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-39. Hungary <p>
+38. Hungary <p>
 > <img src="/output/countries_current/Hungary_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Hungary_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Hungary_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Hungary_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+39. Saudi Arabia <p>
+> <img src="/output/countries_current/Saudi Arabia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Saudi Arabia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Saudi Arabia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

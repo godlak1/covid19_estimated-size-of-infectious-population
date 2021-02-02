@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-01-31, COVID-19 Time Series
+## 2021-02-01, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -54,9 +54,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Netherlands_newCases.png)  |  ![img](/output/countries_current/Canada_newCases.png)  |  
 
-|  23. Romania  |  24. Chile  |  
+|  23. Chile  |  24. Romania  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Romania_newCases.png)  |  ![img](/output/countries_current/Chile_newCases.png)  |  
+|  ![img](/output/countries_current/Chile_newCases.png)  |  ![img](/output/countries_current/Romania_newCases.png)  |  
 
 |  25. Portugal  |  26. Belgium  |  
 |  :---   |   :---   |  
@@ -82,13 +82,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Austria_newCases.png)  |  ![img](/output/countries_current/Serbia_newCases.png)  |  
 
-|  37. Japan  |  38. Saudi Arabia  |  
+|  37. Japan  |  38. Hungary  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  
+|  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
 
-|  39. Hungary  |  40. Jordan  |  
+|  39. Saudi Arabia  |  40. Jordan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Hungary_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
 |  41. Panama  |  42. United Arab Emirates  |  
 |  :---   |   :---   |  
