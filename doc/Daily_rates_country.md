@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-01, COVID-19 Time Series
+## 2021-02-02, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -325,17 +325,17 @@
 
  <p>&nbsp;</p> 
 
-46. Ecuador <p>
-> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-47. Slovakia <p>
+46. Slovakia <p>
 > <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Slovakia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+47. Ecuador <p>
+> <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
