@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-03, COVID-19 Time Series
+## 2021-02-04, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -102,9 +102,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
 
-|  47. Ecuador  |  48. Belarus  |  
+|  47. Belarus  |  48. Ecuador  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
+|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
 |  49. Kazakhstan  |  50. Croatia  |  
 |  :---   |   :---   |  
