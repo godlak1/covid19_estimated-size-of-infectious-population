@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-02, COVID-19 Time Series
+## 2021-02-03, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -164,24 +164,24 @@
 
  <p>&nbsp;</p> 
 
-23. Chile <p>
+23. Portugal <p>
+> <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Portugal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+24. Chile <p>
 > <img src="/output/countries_current/Chile_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Chile_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Chile_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Chile_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-24. Romania <p>
+25. Romania <p>
 > <img src="/output/countries_current/Romania_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Romania_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Romania_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Romania_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-25. Portugal <p>
-> <img src="/output/countries_current/Portugal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Portugal_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Portugal_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Portugal_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

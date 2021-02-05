@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-02, COVID-19 Time Series
+## 2021-02-03, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -45,24 +45,24 @@
 
  <p>&nbsp;</p> 
 
-6. OH <p>
+6. GA <p>
+> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+7. OH <p>
 > <img src="/output/states_current/OH_newCases7d.png" width="49.5%"/> <img src="/output/states_current/OH_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/OH_estInfections.png" width="49.5%"/> <img src="/output/states_current/OH_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-7. PA <p>
+8. PA <p>
 > <img src="/output/states_current/PA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/PA_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/PA_estInfections.png" width="49.5%"/> <img src="/output/states_current/PA_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-8. AZ <p>
-> <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/AZ_estInfections.png" width="49.5%"/> <img src="/output/states_current/AZ_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -73,10 +73,10 @@
 
  <p>&nbsp;</p> 
 
-10. GA <p>
-> <img src="/output/states_current/GA_newCases7d.png" width="49.5%"/> <img src="/output/states_current/GA_NewCasesEstConfirmed.png" width="49.5%"/> 
+10. AZ <p>
+> <img src="/output/states_current/AZ_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AZ_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/states_current/GA_estInfections.png" width="49.5%"/> <img src="/output/states_current/GA_estTotalCases.png" width="49.5%"/> 
+> <img src="/output/states_current/AZ_estInfections.png" width="49.5%"/> <img src="/output/states_current/AZ_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -129,17 +129,17 @@
 
  <p>&nbsp;</p> 
 
-18. MN <p>
-> <img src="/output/states_current/MN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MN_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MN_estInfections.png" width="49.5%"/> <img src="/output/states_current/MN_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-19. AL <p>
+18. AL <p>
 > <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/AL_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+19. MN <p>
+> <img src="/output/states_current/MN_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MN_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MN_estInfections.png" width="49.5%"/> <img src="/output/states_current/MN_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

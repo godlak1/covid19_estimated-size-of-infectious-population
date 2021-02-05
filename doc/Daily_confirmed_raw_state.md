@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-02, COVID-19 Time Series
+## 2021-02-03, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -18,17 +18,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/FL_newCases.png)  |  ![img](/output/states_current/NY_newCases.png)  |  
 
-|  5. IL  |  6. OH  |  
+|  5. IL  |  6. GA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/IL_newCases.png)  |  ![img](/output/states_current/OH_newCases.png)  |  
+|  ![img](/output/states_current/IL_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
 
-|  7. PA  |  8. AZ  |  
+|  7. OH  |  8. PA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/PA_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
+|  ![img](/output/states_current/OH_newCases.png)  |  ![img](/output/states_current/PA_newCases.png)  |  
 
-|  9. NC  |  10. GA  |  
+|  9. NC  |  10. AZ  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/GA_newCases.png)  |  
+|  ![img](/output/states_current/NC_newCases.png)  |  ![img](/output/states_current/AZ_newCases.png)  |  
 
 |  11. TN  |  12. NJ  |  
 |  :---   |   :---   |  
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
 
-|  17. VA  |  18. MN  |  
+|  17. VA  |  18. AL  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
+|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
 
-|  19. AL  |  20. MO  |  
+|  19. MN  |  20. MO  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
+|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
 
 |  21. SC  |  22. LA  |  
 |  :---   |   :---   |  
