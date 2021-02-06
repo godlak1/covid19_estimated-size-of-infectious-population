@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-04, COVID-19 Time Series
+## 2021-02-05, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -332,17 +332,17 @@
 
  <p>&nbsp;</p> 
 
-47. Belarus <p>
-> <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Belarus_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belarus_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Ecuador <p>
+47. Ecuador <p>
 > <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Ecuador_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Belarus <p>
+> <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Belarus_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Belarus_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -353,10 +353,10 @@
 
  <p>&nbsp;</p> 
 
-50. Croatia <p>
-> <img src="/output/countries_current/Croatia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Croatia_cnvd_AscertainmentRate.png" width="49.5%"/> 
+50. Malaysia <p>
+> <img src="/output/countries_current/Malaysia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Malaysia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Croatia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Croatia_estTransmissionRate.png" width="49.5%"/> 
+> <img src="/output/countries_current/Malaysia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Malaysia_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
