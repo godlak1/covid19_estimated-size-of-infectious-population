@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-05, COVID-19 Time Series
+## 2021-02-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -98,9 +98,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
-|  45. Georgia  |  46. Slovakia  |  
+|  45. Slovakia  |  46. Georgia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
+|  ![img](/output/countries_current/Slovakia_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
 |  47. Ecuador  |  48. Belarus  |  
 |  :---   |   :---   |  

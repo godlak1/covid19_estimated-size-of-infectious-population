@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-05, COVID-19 Time Series
+## 2021-02-06, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -318,17 +318,17 @@
 
  <p>&nbsp;</p> 
 
-45. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-46. Slovakia <p>
+45. Slovakia <p>
 > <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Slovakia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+46. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
