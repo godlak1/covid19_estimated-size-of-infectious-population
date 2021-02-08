@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-06, COVID-19 Time Series
+## 2021-02-07, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -143,17 +143,17 @@
 
  <p>&nbsp;</p> 
 
-20. MO <p>
-> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MO_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-21. SC <p>
+20. SC <p>
 > <img src="/output/states_current/SC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SC_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/SC_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/SC_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+21. MO <p>
+> <img src="/output/states_current/MO_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MO_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MO_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MO_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. KS <p>
-> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/states_current/KS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/KS_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. MS <p>
+31. MS <p>
 > <img src="/output/states_current/MS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MS_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/states_current/MS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/MS_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. KS <p>
+> <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/states_current/KS_estCumIncidence.png" width="49.5%"/> <img src="/output/states_current/KS_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

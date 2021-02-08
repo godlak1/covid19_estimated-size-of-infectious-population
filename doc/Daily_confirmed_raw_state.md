@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-06, COVID-19 Time Series
+## 2021-02-07, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -46,13 +46,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
 
-|  19. MN  |  20. MO  |  
+|  19. MN  |  20. SC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/MO_newCases.png)  |  
+|  ![img](/output/states_current/MN_newCases.png)  |  ![img](/output/states_current/SC_newCases.png)  |  
 
-|  21. SC  |  22. LA  |  
+|  21. MO  |  22. LA  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SC_newCases.png)  |  ![img](/output/states_current/LA_newCases.png)  |  
+|  ![img](/output/states_current/MO_newCases.png)  |  ![img](/output/states_current/LA_newCases.png)  |  
 
 |  23. CO  |  24. OK  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
 
-|  31. KS  |  32. MS  |  
+|  31. MS  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/MS_newCases.png)  |  
+|  ![img](/output/states_current/MS_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
 
 |  33. IA  |  34. CT  |  
 |  :---   |   :---   |  
