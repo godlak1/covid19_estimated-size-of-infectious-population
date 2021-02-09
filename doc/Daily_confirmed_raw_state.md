@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-07, COVID-19 Time Series
+## 2021-02-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AR_newCases.png)  |  ![img](/output/states_current/NV_newCases.png)  |  
 
-|  31. MS  |  32. KS  |  
+|  31. KS  |  32. MS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MS_newCases.png)  |  ![img](/output/states_current/KS_newCases.png)  |  
+|  ![img](/output/states_current/KS_newCases.png)  |  ![img](/output/states_current/MS_newCases.png)  |  
 
 |  33. IA  |  34. CT  |  
 |  :---   |   :---   |  

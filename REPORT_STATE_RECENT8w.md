@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-07, COVID-19 Time Series
+## 2021-02-08, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. MS <p>
-> <img src="/output/states_current/MS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/MS_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. KS <p>
+31. KS <p>
 > <img src="/output/states_current/KS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/KS_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/KS_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/KS_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. MS <p>
+> <img src="/output/states_current/MS_newCases7d.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/MS_Recent_estInfections.png" width="49.5%"/> <img src="/output/states_current/MS_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

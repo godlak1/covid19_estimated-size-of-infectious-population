@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-07, COVID-19 Time Series
+## 2021-02-08, COVID-19 Time Series
 # TX counties (top 15) 
 
 
@@ -87,17 +87,17 @@
 
  <p>&nbsp;</p> 
 
-12. Webb <p>
-> <img src="/output/TX_counties_current/Webb_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/TX_counties_current/Webb_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-13. Montgomery <p>
+12. Montgomery <p>
 > <img src="/output/TX_counties_current/Montgomery_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/TX_counties_current/Montgomery_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Montgomery_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+13. Webb <p>
+> <img src="/output/TX_counties_current/Webb_newCases7d.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/TX_counties_current/Webb_Recent_estInfections.png" width="49.5%"/> <img src="/output/TX_counties_current/Webb_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

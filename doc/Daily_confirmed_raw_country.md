@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-07, COVID-19 Time Series
+## 2021-02-08, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
 
-|  31. Bangladesh  |  32. Philippines  |  
+|  31. Philippines  |  32. Bangladesh  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Philippines_newCases.png)  |  
+|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  
 
 |  33. Switzerland  |  34. Morocco  |  
 |  :---   |   :---   |  
@@ -90,9 +90,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
-|  41. Panama  |  42. United Arab Emirates  |  
+|  41. United Arab Emirates  |  42. Panama  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Panama_newCases.png)  |  
 
 |  43. Lebanon  |  44. Nepal  |  
 |  :---   |   :---   |  
@@ -106,9 +106,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
-|  49. Kazakhstan  |  50. Malaysia  |  
+|  49. Malaysia  |  50. Kazakhstan  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  ![img](/output/countries_current/Malaysia_newCases.png)  |  
+|  ![img](/output/countries_current/Malaysia_newCases.png)  |  ![img](/output/countries_current/Kazakhstan_newCases.png)  |  
 
 Korea, South  
 <img src="/output/countries_current/Korea, South_newCases.png" width="49.5%"/>    

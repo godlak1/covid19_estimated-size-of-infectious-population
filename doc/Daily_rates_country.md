@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-07, COVID-19 Time Series
+## 2021-02-08, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -220,17 +220,17 @@
 
  <p>&nbsp;</p> 
 
-31. Bangladesh <p>
-> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bangladesh_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-32. Philippines <p>
+31. Philippines <p>
 > <img src="/output/countries_current/Philippines_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Philippines_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Philippines_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Philippines_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+32. Bangladesh <p>
+> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bangladesh_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -290,17 +290,17 @@
 
  <p>&nbsp;</p> 
 
-41. Panama <p>
-> <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Panama_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Panama_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-42. United Arab Emirates <p>
+41. United Arab Emirates <p>
 > <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Arab Emirates_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+42. Panama <p>
+> <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Panama_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Panama_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -346,17 +346,17 @@
 
  <p>&nbsp;</p> 
 
-49. Kazakhstan <p>
-> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-50. Malaysia <p>
+49. Malaysia <p>
 > <img src="/output/countries_current/Malaysia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Malaysia_cnvd_AscertainmentRate.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Malaysia_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Malaysia_estTransmissionRate.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+50. Kazakhstan <p>
+> <img src="/output/countries_current/Kazakhstan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_cnvd_AscertainmentRate.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Kazakhstan_estCumIncidence.png" width="49.5%"/> <img src="/output/countries_current/Kazakhstan_estTransmissionRate.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
