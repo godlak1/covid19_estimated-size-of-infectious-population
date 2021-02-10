@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-08, COVID-19 Time Series
+## 2021-02-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -38,9 +38,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Mexico_newCases.png)  |  ![img](/output/countries_current/Poland_newCases.png)  |  
 
-|  15. South Africa  |  16. Iran  |  
+|  15. Iran  |  16. South Africa  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/South Africa_newCases.png)  |  ![img](/output/countries_current/Iran_newCases.png)  |  
+|  ![img](/output/countries_current/Iran_newCases.png)  |  ![img](/output/countries_current/South Africa_newCases.png)  |  
 
 |  17. Ukraine  |  18. Peru  |  
 |  :---   |   :---   |  

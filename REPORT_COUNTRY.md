@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-08, COVID-19 Time Series
+## 2021-02-09, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -108,17 +108,17 @@
 
  <p>&nbsp;</p> 
 
-15. South Africa <p>
-> <img src="/output/countries_current/South Africa_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/South Africa_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/South Africa_estInfections.png" width="49.5%"/> <img src="/output/countries_current/South Africa_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-16. Iran <p>
+15. Iran <p>
 > <img src="/output/countries_current/Iran_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Iran_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Iran_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Iran_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+16. South Africa <p>
+> <img src="/output/countries_current/South Africa_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/South Africa_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/South Africa_estInfections.png" width="49.5%"/> <img src="/output/countries_current/South Africa_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

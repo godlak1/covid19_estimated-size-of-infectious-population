@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-08, COVID-19 Time Series
+## 2021-02-09, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -46,9 +46,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/VA_testPositiveRate.png)  |  ![img](/output/states_current/AL_testPositiveRate.png)  |  
 
-|  19. MN  |  20. SC  |  
+|  19. SC  |  20. MN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/MN_testPositiveRate.png)  |  ![img](/output/states_current/SC_testPositiveRate.png)  |  
+|  ![img](/output/states_current/SC_testPositiveRate.png)  |  ![img](/output/states_current/MN_testPositiveRate.png)  |  
 
 |  21. MO  |  22. LA  |  
 |  :---   |   :---   |  
@@ -70,9 +70,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/AR_testPositiveRate.png)  |  ![img](/output/states_current/NV_testPositiveRate.png)  |  
 
-|  31. KS  |  32. MS  |  
+|  31. MS  |  32. KS  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/KS_testPositiveRate.png)  |  ![img](/output/states_current/MS_testPositiveRate.png)  |  
+|  ![img](/output/states_current/MS_testPositiveRate.png)  |  ![img](/output/states_current/KS_testPositiveRate.png)  |  
 
 |  33. IA  |  34. CT  |  
 |  :---   |   :---   |  
