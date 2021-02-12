@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-10, COVID-19 Time Series
+## 2021-02-11, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -297,17 +297,17 @@
 
  <p>&nbsp;</p> 
 
-42. Panama <p>
-> <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Panama_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Panama_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-43. Lebanon <p>
+42. Lebanon <p>
 > <img src="/output/countries_current/Lebanon_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Lebanon_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Lebanon_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+43. Panama <p>
+> <img src="/output/countries_current/Panama_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Panama_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Panama_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Panama_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

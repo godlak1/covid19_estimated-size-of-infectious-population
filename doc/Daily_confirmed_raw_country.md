@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-10, COVID-19 Time Series
+## 2021-02-11, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -90,13 +90,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
 
-|  41. United Arab Emirates  |  42. Panama  |  
+|  41. United Arab Emirates  |  42. Lebanon  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Panama_newCases.png)  |  
+|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  43. Lebanon  |  44. Nepal  |  
+|  43. Panama  |  44. Nepal  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Lebanon_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
 
 |  45. Slovakia  |  46. Georgia  |  
 |  :---   |   :---   |  
