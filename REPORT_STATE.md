@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-11, COVID-19 Time Series
+## 2021-02-12, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -129,17 +129,17 @@
 
  <p>&nbsp;</p> 
 
-18. AL <p>
-> <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/states_current/AL_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-19. SC <p>
+18. SC <p>
 > <img src="/output/states_current/SC_newCases7d.png" width="49.5%"/> <img src="/output/states_current/SC_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/states_current/SC_estInfections.png" width="49.5%"/> <img src="/output/states_current/SC_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+19. AL <p>
+> <img src="/output/states_current/AL_newCases7d.png" width="49.5%"/> <img src="/output/states_current/AL_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/states_current/AL_estInfections.png" width="49.5%"/> <img src="/output/states_current/AL_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

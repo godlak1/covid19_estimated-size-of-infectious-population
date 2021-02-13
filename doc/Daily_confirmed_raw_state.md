@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-11, COVID-19 Time Series
+## 2021-02-12, COVID-19 Time Series
 # States in the U.S. 
 
 
@@ -42,13 +42,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/states_current/WI_newCases.png)  |  ![img](/output/states_current/MA_newCases.png)  |  
 
-|  17. VA  |  18. AL  |  
+|  17. VA  |  18. SC  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/AL_newCases.png)  |  
+|  ![img](/output/states_current/VA_newCases.png)  |  ![img](/output/states_current/SC_newCases.png)  |  
 
-|  19. SC  |  20. MN  |  
+|  19. AL  |  20. MN  |  
 |  :---   |   :---   |  
-|  ![img](/output/states_current/SC_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
+|  ![img](/output/states_current/AL_newCases.png)  |  ![img](/output/states_current/MN_newCases.png)  |  
 
 |  21. MO  |  22. LA  |  
 |  :---   |   :---   |  

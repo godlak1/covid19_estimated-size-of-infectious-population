@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-11, COVID-19 Time Series
+## 2021-02-12, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -227,17 +227,17 @@
 
  <p>&nbsp;</p> 
 
-32. Bangladesh <p>
-> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Bangladesh_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-33. Switzerland <p>
+32. Switzerland <p>
 > <img src="/output/countries_current/Switzerland_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Switzerland_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Switzerland_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+33. Bangladesh <p>
+> <img src="/output/countries_current/Bangladesh_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Bangladesh_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Bangladesh_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -311,31 +311,31 @@
 
  <p>&nbsp;</p> 
 
-44. Nepal <p>
-> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Nepal_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_Recent_estInfectionsNewCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-45. Slovakia <p>
+44. Slovakia <p>
 > <img src="/output/countries_current/Slovakia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Slovakia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Slovakia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-46. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+45. Nepal <p>
+> <img src="/output/countries_current/Nepal_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Nepal_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
-> <img src="/output/countries_current/Georgia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+> <img src="/output/countries_current/Nepal_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Nepal_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
-47. Belarus <p>
+46. Belarus <p>
 > <img src="/output/countries_current/Belarus_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Belarus_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Belarus_Recent_estInfectionsNewCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+47. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_Recent_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Georgia_Recent_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_Recent_estInfectionsNewCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

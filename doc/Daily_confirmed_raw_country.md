@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-11, COVID-19 Time Series
+## 2021-02-12, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -70,13 +70,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Sweden_newCases.png)  |  ![img](/output/countries_current/Pakistan_newCases.png)  |  
 
-|  31. Philippines  |  32. Bangladesh  |  
+|  31. Philippines  |  32. Switzerland  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Bangladesh_newCases.png)  |  
+|  ![img](/output/countries_current/Philippines_newCases.png)  |  ![img](/output/countries_current/Switzerland_newCases.png)  |  
 
-|  33. Switzerland  |  34. Morocco  |  
+|  33. Bangladesh  |  34. Morocco  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Switzerland_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
+|  ![img](/output/countries_current/Bangladesh_newCases.png)  |  ![img](/output/countries_current/Morocco_newCases.png)  |  
 
 |  35. Austria  |  36. Serbia  |  
 |  :---   |   :---   |  
@@ -94,17 +94,17 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
-|  43. Panama  |  44. Nepal  |  
+|  43. Panama  |  44. Slovakia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Nepal_newCases.png)  |  
+|  ![img](/output/countries_current/Panama_newCases.png)  |  ![img](/output/countries_current/Slovakia_newCases.png)  |  
 
-|  45. Slovakia  |  46. Georgia  |  
+|  45. Nepal  |  46. Belarus  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Slovakia_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
+|  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
-|  47. Belarus  |  48. Ecuador  |  
+|  47. Georgia  |  48. Ecuador  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Belarus_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
+|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
 
 |  49. Malaysia  |  50. Kazakhstan  |  
 |  :---   |   :---   |  
