@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-12, COVID-19 Time Series
+## 2021-02-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -283,17 +283,17 @@
 
  <p>&nbsp;</p> 
 
-40. Jordan <p>
-> <img src="/output/countries_current/Jordan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Jordan_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Jordan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Jordan_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-41. United Arab Emirates <p>
+40. United Arab Emirates <p>
 > <img src="/output/countries_current/United Arab Emirates_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/United Arab Emirates_estInfections.png" width="49.5%"/> <img src="/output/countries_current/United Arab Emirates_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+41. Jordan <p>
+> <img src="/output/countries_current/Jordan_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Jordan_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Jordan_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Jordan_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 
@@ -332,17 +332,17 @@
 
  <p>&nbsp;</p> 
 
-47. Georgia <p>
-> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
-
-> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
-
- <p>&nbsp;</p> 
-
-48. Ecuador <p>
+47. Ecuador <p>
 > <img src="/output/countries_current/Ecuador_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_NewCasesEstConfirmed.png" width="49.5%"/> 
 
 > <img src="/output/countries_current/Ecuador_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Ecuador_estTotalCases.png" width="49.5%"/> 
+
+ <p>&nbsp;</p> 
+
+48. Georgia <p>
+> <img src="/output/countries_current/Georgia_newCases7d.png" width="49.5%"/> <img src="/output/countries_current/Georgia_NewCasesEstConfirmed.png" width="49.5%"/> 
+
+> <img src="/output/countries_current/Georgia_estInfections.png" width="49.5%"/> <img src="/output/countries_current/Georgia_estTotalCases.png" width="49.5%"/> 
 
  <p>&nbsp;</p> 
 

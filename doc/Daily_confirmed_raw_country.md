@@ -4,7 +4,7 @@
 
  <p>&nbsp;</p> 
 
-## 2021-02-12, COVID-19 Time Series
+## 2021-02-13, COVID-19 Time Series
 # Countries (top 50)
 
 
@@ -86,13 +86,13 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Japan_newCases.png)  |  ![img](/output/countries_current/Hungary_newCases.png)  |  
 
-|  39. Saudi Arabia  |  40. Jordan  |  
+|  39. Saudi Arabia  |  40. United Arab Emirates  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/Jordan_newCases.png)  |  
+|  ![img](/output/countries_current/Saudi Arabia_newCases.png)  |  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  
 
-|  41. United Arab Emirates  |  42. Lebanon  |  
+|  41. Jordan  |  42. Lebanon  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/United Arab Emirates_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
+|  ![img](/output/countries_current/Jordan_newCases.png)  |  ![img](/output/countries_current/Lebanon_newCases.png)  |  
 
 |  43. Panama  |  44. Slovakia  |  
 |  :---   |   :---   |  
@@ -102,9 +102,9 @@
 |  :---   |   :---   |  
 |  ![img](/output/countries_current/Nepal_newCases.png)  |  ![img](/output/countries_current/Belarus_newCases.png)  |  
 
-|  47. Georgia  |  48. Ecuador  |  
+|  47. Ecuador  |  48. Georgia  |  
 |  :---   |   :---   |  
-|  ![img](/output/countries_current/Georgia_newCases.png)  |  ![img](/output/countries_current/Ecuador_newCases.png)  |  
+|  ![img](/output/countries_current/Ecuador_newCases.png)  |  ![img](/output/countries_current/Georgia_newCases.png)  |  
 
 |  49. Malaysia  |  50. Kazakhstan  |  
 |  :---   |   :---   |  
